@@ -1,0 +1,1948 @@
+{
+    "cursos": [
+        {
+            "curriculos": [
+                {
+                    "date": "1995/1 a 1997/2",
+                    "linkSiga": "https://www.siga.ufrj.br/sira/repositorio-curriculo/distribuicoes/E68D3B51-6D03-4804-94CB-311DAC1BE477.html",
+                    "periodos": {
+                        "1": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F25-92A4-F713-0056-3E3926A3D9F9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA115",
+                                    "nome": "Fundamentos da Administração",
+                                    "descricao": "Administracao: realidade, tecnologia e pratica. Ambiente externo das organizacoes. Planejamento. Controle. Dinamica administrativa. Dinamica organizacional e comportamental. Principais areas funcionais da administracao.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329F64-92A4-F713-0056-3E399076C40E.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA211",
+                                    "nome": "Informática para Administração",
+                                    "descricao": "Historico; componentes basicos e operacao de um computador. Arquivos e bancos de dados. Programacao: programas; linguagens; compiladores; algoritmos e elaboracao de programas; construcao e teste de programas.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733A04A-92A4-F713-0056-3E391493FFEE.html'",
+                                    "creditos": 4,
+                                    "codigo": "FCB121",
+                                    "nome": "Sociologia das Organizações",
+                                    "descricao": "Sociologia: objeto, conceitos, métodos. Sistema social. Organização: tipologia; sistema e tipos de autoridade; relações de influência e poder; normas.\nModelo burocrático e suas disfunções. Organização formal/informal, tecnoestrutura.\n\nBIBLIOGRAFIA BÁSICA \n1- CASTELLS, M. A sociedade em rede. Rio de Janeiro: Paz e Terra, 2001; CHAMPION, D. J. A sociologia das organizações. São Paulo: Saraiva, 1985.\n2- DOMINGUES, José Mauricio. Sociologia e modernidade: para entender a sociedade contemporânea. 2.ed. Rio de Janeiro. Civilização Brasileira. 2001.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733E8EB-92A4-F713-0056-3E39031B4B0F.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE110",
+                                    "nome": "Macroeconomia",
+                                    "descricao": "Mensuracao dos fenomenos economicos: consumo, poupanca e investimento. A moeda na economia: politica monetaria; inflacao. Crescimento e desenvolvimento: politicas conjunturais e estruturais. Balanco de pagamentos. Cambio. Divida externa.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342529-92A4-F713-0056-3E398ED61DAA.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF110",
+                                    "nome": "Introdução ao Direito",
+                                    "descricao": "Princípios fundamentais do Direito. Ato e fato jurídico. A lei e o tempo. Analogia e jurisprudência. Instituições de direito privado: direito civil e comercial. Instituições de direito publico: direito constitucional e administrativo.\n\n___BIBLIOGRAFIA BÁSICA___\n1) REALE, Miguel. Lições preliminares de Direito. São Paulo: Saraiva, 2001.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) COELHO, Fábio Ulhoa. Curso de Direito Comercial. Vol. 1. São Paulo: Saraiva, 2018.\n2) FERRAZ, J. R., Tércio Sampaio. Introdução ao Estudo do Direito: técnica, decisão, dominação. São Paulo: Atlas, 2018.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97344EC9-92A4-F713-0056-3E3995529831.html'",
+                                    "creditos": 2,
+                                    "codigo": "LEV121",
+                                    "nome": "Português Instrumental I",
+                                    "descricao": "Funcoes da linguagem. A construcao do texto: a frase; o vocabulario; o paragrafo. Comunicacao: eficacia e falacias. Redacao tecnica: monografias, dissertacoes e teses; preparacao dos originais.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973462CE-92A4-F713-0056-3E39E0C95478.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAC119",
+                                    "nome": "Matemática para Administração",
+                                    "descricao": "Funções de uma variável real. Limites. Continuidade. Derivadas. Introdução ao cálculo integral. Aplicação do cálculo integral e do cálculo diferencial as problemáticas administrativas: preço, quantidade e rendimento de produção; margem de lucro.\n\n___BIBLIOGRAFIA BÁSICA___\n1) WEBER, Jean E. Matemática para Economia e Administração. 2{ Ed. São Paulo: Editora Harbra Ltda, 1986.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LEITHOLD, Louis. O Cálculo como Geometria Analítica. 3ª Ed. São Paulo: Editora Harbra Ltda, 1994.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "2": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F45-92A4-F713-0056-3E393B6EEBB7.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA122",
+                                    "nome": "Teoria das Organizações",
+                                    "descricao": "Conceito de organização. Modelos de organização: características, condições e limites de aplicação. O papel social das organizações. Abordagem clássica da administração. Escola das relações humanas e comportamentalista. Burocracia. Abordagem sistêmica das organizações. Abordagem contingencial das organizações. Abordagens contemporâneas em estudos organizacionais: abordagem institucional, teoria da dependência de recursos, a economia dos cursos de transação, a ecologia populacional. O poder nas organizações. Perspectivas críticas e pós-modernas em estudos organizacionais. Pensamento brasileiro em estudos organizacionais. \n\n__BIBLIOGRAFIA BÁSICA__  \n1) MOTTA, Fernando Claudio Prestes; VASCONCELOS, Isabella Gouveia de. Teoria Geral da Administração. São Paulo : Pioneira Thomson Learning, 2006.\n\n__BIBLIOGRAFIA COMPLEMENTAR__  \n1) VIEIRA, Marcelo Milano Falcão; KNOPP, Glauco da Costa; ROLIM, Hygino Lima; SIMÕES, Janaina Machado e DARBILLY, Leonardo Vasconcelos Cavalier. Teoria \nGeral da Administração. Rio de Janeiro: FGV, 2012.\n2) DE PAULA, Ana Paula Paes. Teoria Crítica nas Organizações. São Paulo: Thomson, 2008.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FE1-92A4-F713-0056-3E390D80797C.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA227",
+                                    "nome": "Modelos Probabilísticos em Adm",
+                                    "descricao": "Não cadastrada.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733BB15-92A4-F713-0056-3E39CE05D2FF.html'",
+                                    "creditos": 4,
+                                    "codigo": "FCS221",
+                                    "nome": "Ciência Política",
+                                    "descricao": "A possibilidade do estudo cientifico da vida politica. Grandes concepcoes da teoria politica. Diferentes tipos de sistemas politicos e suas relacoes com a dinamica social.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733E997-92A4-F713-0056-3E39FE70F01F.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE128",
+                                    "nome": "Microeconomia",
+                                    "descricao": "Funcao de producao: tipologia dos custos, substituicao, complementaridade dos fatores; progresso tecnico. Formacao do preco do mercado: funcoes da oferta e da procura; renda; elasticidade. Concorrencia pura, monopolio, oligopolio.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "IEE110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973417AC-92A4-F713-0056-3E3960FB44FB.html'",
+                                    "creditos": 4,
+                                    "codigo": "IPS120",
+                                    "nome": "Psicologia das Organizações",
+                                    "descricao": "Psicologia: conceitos, metodos. Psicologia individual: aprendizagem; memoria; individuo; maturacao; funcoes cognitivas; personalidade. Psicologia Social e Organizacional: motivacao, papeis e atitudes; relacoes interpessoais e dinamica de grupos.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "3": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F54-92A4-F713-0056-3E397C9FFD9A.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA129",
+                                    "nome": "Modelos Determinísticos em Adm",
+                                    "descricao": "Não cadastrada.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FB2-92A4-F713-0056-3E39F887B022.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA224",
+                                    "nome": "Processo Decisório",
+                                    "descricao": "Teoria da decisao: conceitos, metodos e tecnicas.Tipologia e niveis de decisao. Processo decisorio: concepcoes individuais e holistica. Processos de pesquisa de informacao, avaliacao, julgamento, negociacao e procura de compromisso.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A02F-92A4-F713-0056-3E394F2BD216.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA302",
+                                    "nome": "Análise de Investimentos",
+                                    "descricao": "Matematica financeira. Criterios de analise de investimentos. Sistemas de amortizacao de emprestimos. Introducao a analise de titulos. Introducao a analise de projetos de investimentos.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A540-92A4-F713-0056-3E391C325ACA.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACC211",
+                                    "nome": "Introdução à Contabilidade",
+                                    "descricao": "Regras e procedimentos contábeis: princípios da contabilidade; sistema contábil; lançamentos; estrutura do patrimônio líquido. Receitas, despesas e apuracão do resultado. Demonstrativos financeiros. Fundamentos de contabilidade de custos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) MARION, José Carlos. Contabilidade Empresarial. São Paulo: Atlas S/A, 2004.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FIPECAFI. Manual de Contabilidade das Sociedades por Ações. São Paulo: Atlas S/A, 2004.\n2) Equipe de Professores da FEA-USP. Contabilidade Introdutória. São Paulo: Atlas S/A, 2004.\n3) PADOVEZES, Clóvis Luis. Manual de Contabilidade Básica. São Paulo: Saraiva, 2003.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342597-92A4-F713-0056-3E3904148C02.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF120",
+                                    "nome": "Direito do Trabalho",
+                                    "descricao": "Direito do trabalho: características e finalidades. CLT. Contratos individuais e coletivos. Dissídios coletivos. Convenção coletiva de trabalho. Justiça do trabalho. Acidentes do trabalho. Fundo de garantia.\n\n___BIBLIOGRAFIA BÁSICA___\n1) MARTINS, Sérgio Pinto. Direito do Trabalho. São Paulo: Atlas, 2012.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) CASSAR, Vólia Bonfim. Direito do Trabalho. São Paulo: Método, 2018.\n2) NASCIMENTO, Amaury Mascaro. Iniciação ao Direito do Trabalho. São Paulo. LTr Ed. 2018.\n3) SÛSSEKIND, Arnaldo. Instituições de Direito do Trabalho. São Paulo. LTr Ed. 2005.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97346530-92A4-F713-0056-3E3969553B23.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAD211",
+                                    "nome": "Estatística para Administração",
+                                    "descricao": "Estatistica descritiva. Elaboracao de tabelas e graficos. Calculo combinatorio. Nocoes de probabilidade. Variaveis aleatorias discretas e continuas. Valor esperado. Amostragem e testes de hipoteses. Metodos dos minimos quadrados e correlacao.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA227"
+                                    ]
+                                }
+                            ]
+                        },
+                        "4": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329FB2-92A4-F713-0056-3E39F4CA2D70.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA223",
+                                    "nome": "Metodologia da Pesquisa",
+                                    "descricao": "Pesquisa. Pesquisa pragmatica. Etapas da pesquisa. Tecnicas de selecao. Tecnicas de observacao. Tecnicas de descricao. Tecnicas de analise. Redacao e apresentacao de relatorio de pesquisa.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAD211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FC2-92A4-F713-0056-3E395FCF70DB.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA225",
+                                    "nome": "Organização Sistemas e Métodos",
+                                    "descricao": "Diagnostico e intervencao organizacional. Tecnicas administrativas de resolucao de problemas e implantacao de projetos. Gerenciamento e implantacao de mudancas organizacionais. Instrumental para estruturacao administrativa.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FF1-92A4-F713-0056-3E3913DF8F89.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA228",
+                                    "nome": "Modelos Regressão e Previsão",
+                                    "descricao": "Não cadastrada.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "MAD211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A55F-92A4-F713-0056-3E393C7D28FB.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACC222",
+                                    "nome": "Contabilidade Gerencial",
+                                    "descricao": "Não cadastrada.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACC211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733BB05-92A4-F713-0056-3E3987600424.html'",
+                                    "creditos": 4,
+                                    "codigo": "FCS220",
+                                    "nome": "Filosofia da Administracao",
+                                    "descricao": "Filosofia: natureza; nocoes de metafisica, teoria do conhecimento, etica, filosofia politica, logica; teorias contemporaneas. Filosofia da administracao. Tecnologia administrativa: nocoes de tecnologia; metodos de tecnologia; inteligencia teorica e pratica.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342623-92A4-F713-0056-3E39CC54F12D.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF210",
+                                    "nome": "Direito Comercial",
+                                    "descricao": "A empresa e o direito. Ato e materia de comercio. Direitos e obrigacoes. Sociedade: tipos; dissolucao e liquidacao. Marca de comercio. Titulos de credito. Contratos mercantins. Bolsa de valores e mercadorias. Instituicoes financeiras.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                }
+                            ]
+                        },
+                        "5": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9732A01F-92A4-F713-0056-3E394296C25A.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA301",
+                                    "nome": "Fundamentos de Logística",
+                                    "descricao": "A logistica e seus subsistemas. Interfaces da logistica com as demais areas funcionais. O ambiente logistico. Decisoes logisticas. Organizacao da atividades logisticas.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA129",
+                                        "ACA228",
+                                        "IEE128"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A06E-92A4-F713-0056-3E393472A0F4.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA323",
+                                    "nome": "Análise de Marketing",
+                                    "descricao": "Concepcoes de marketing. Comportamento de compra do consumidor. Estudos de mercado. Previsao e mensuracao da demanda. Segmentacao do mercado. Introducao ao planejamento estrategico de marketing.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA224",
+                                        "ACA228",
+                                        "IEE128"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A06E-92A4-F713-0056-3E3955E7794B.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA324",
+                                    "nome": "Fundamentos Recursos Humanos",
+                                    "descricao": "Distincao entre administracao de pessoal, administracao de recursos humanos e gestao social. Estrategias organizacionais e gestao dos componentes humanos. Problematicas e tecnicas de recursos humanos. Auditoria de recursos humanos.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA224"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/923A89E5-92A4-F79B-2DBD-95630D005E92.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA325",
+                                    "nome": "Administração Internacional",
+                                    "descricao": "Ambiente internacional de empresa. Formulacao e implementacao da estrategia internacional. Gestao internacional da empresa. Gerencia de marketing. Gerencia financeira internacional. Organizacao e controle.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IEE128"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/923997BF-92A4-F79B-2DBD-9563101BB1F3.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA326",
+                                    "nome": "Administração Estratégica",
+                                    "descricao": "Analise da empresa e de seu ambiente. Diagnostico estrategico. Estrategias competitivas. Metodologia para a analise da concorrencia. Estrategia orientada para fornecedores e compradores. Estrategia de integracao vertical.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0CB-92A4-F713-0056-3E39D10F03ED.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA332",
+                                    "nome": "Gerência Financeira",
+                                    "descricao": "Objetivos e funções da Administração Financeira; Análise das demonstrações financeiras; Decisões de Capital de Giro: Investimentos em Caixa, em Duplicatas a Receber e em Estoque; Orçamento de Caixa; Custo de Capital: próprio, de terceiros e custo médio ponderado de capital; Estrutura de Capital: as proposições de Modigliani e Miller;  Alavancagem Financeira e Operacional; Controle Orçamentário; Fusões e Aquisições.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CAVICHINI, Alexis. Análise Financeira. Rio de Janeiro: Caeli-Inovarte, 2018 (edição em e-book e vídeo por striming).\n2) ROSS, Stephen. A. et al. Administração Financeira: Corporate Finance. 10ª ed., Porto Alegre: AMGH, 2015. \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1)BRIGHAM, Eugene; HOUSTON, Joel F. Fundamentos da Moderna Administração Financeira. Rio de Janeiro: Editora Campus: 1999.\n2) CAVICHINI, Alexis. Análise Financeira. São Paulo: Editora Tamr, 1997.\n3) COPELAND, Tom; KOLLER, Tim; MURIN, Jack. Avaliação de Empresas - Valuation - Calculando e Gerenciando o Valor da Empresa. 3ª ed., São Paulo: Pearson-Makron Books, 2002.\n4) ROSS, Stephen. A. et al. Administração Financeira. 9ª ed., Porto Alegre: AMGH, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA302",
+                                        "ACC222"
+                                    ]
+                                }
+                            ]
+                        },
+                        "6": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329FA2-92A4-F713-0056-3E3977CCC583.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA222",
+                                    "nome": "Sist de Informações Gerenciais",
+                                    "descricao": "Papel da informacao nas organizacoes. Sistemas de informacoes. Metodos de informatizacao. Concepcao e utilizacao de banco de dados. Gestao de um sistema de informacoes. O usuario de um sistema de informacoes.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA211",
+                                        "ACA332",
+                                        "ACC222"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0AC-92A4-F713-0056-3E3986AA69C8.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA330",
+                                    "nome": "Modelagem e Simulação Sistemas",
+                                    "descricao": "Conceito de sistema, modelo e simulacao de sistemas. Etapas da simulacao. Linguagem da simulacao discreta e de simulacao continua. Tecnicas de simulacao. Validacao e implementacao dos modelos.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA129",
+                                        "ACA228"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0BC-92A4-F713-0056-3E392F7E5C08.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA331",
+                                    "nome": "Administração da Produção",
+                                    "descricao": "Concepcao de sistemas de producao: produtos; processos; modos operacionais; normas de producao implantacao e manutencao. Implementacao e controle do funcionamento de sistemas. Metodologias de estudo de sistemas de producao.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA301"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0DB-92A4-F713-0056-3E396357B2B9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA333",
+                                    "nome": "Políticas de Marketing",
+                                    "descricao": "Estrategia de marketing. Orcamento de marketing. Politica de produtos/servicos. Politica de precos. Politica de distribuicao. Politica de comunicacao. Politica de forca de vendas.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA323"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0EB-92A4-F713-0056-3E39FB9F1779.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA334",
+                                    "nome": "Políticas de Recursos Humanos",
+                                    "descricao": "Politica de recrutamento e selecao. Politica de avaliacao de cargos e salarios. Politica de desenvolvimento organizacional. Politica de treinamento. Politica de promocao e planos de carreira.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA324"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0EB-92A4-F713-0056-3E391390D14D.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA341",
+                                    "nome": "Adm de Compras e Materiais",
+                                    "descricao": "Papel e escopo da funcao de compras. Selecao de fornecedores. Tecnicas de compra. Integracao das funcoes de compra e material. Classificacao de materiais. Determinacao das necessidades de material. Armazenagem e movimentacao de materiais.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA301"
+                                    ]
+                                }
+                            ]
+                        },
+                        "7": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9732A213-92A4-F713-0056-3E39E23F71E3.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA440",
+                                    "nome": "Comunicações Administrativas",
+                                    "descricao": "Pratica da comunicacao: Modos da comunicacao e modos de estruturacao das relacoes individuais e sociais. Comunicacao em relacoes interpessoais e em grupos reduzidos. Comunicacoes administrativas orais. Comunicacoes administrativas escritas.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329EE7-92A4-F713-0056-3E393C9F6B61.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACAU01",
+                                    "nome": "Estágio Supervisionado",
+                                    "descricao": "Possibilitar ao aluno uma participacao efetiva no contexto da gestao de uma empresa publica ou privada de modo a integrar os conteudos teoricos com a pratica da gestao empresarial.",
+                                    "horas": 300,
+                                    "pre_requisito": [
+                                        "ACA331",
+                                        "ACA332",
+                                        "ACA333",
+                                        "ACA334"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973426DF-92A4-F713-0056-3E39EAB21719.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF400",
+                                    "nome": "Gerência Tributária",
+                                    "descricao": "Atividades economicas e financeiras do Estado. Nocoes gerais sobre tributacao. Codigos tributarios. Fato gerador. Sujeitos ativos e passivos. Obrigacao tributaria e credito tributario. Planejamento tributario. Creditos e debitos tributarios.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                }
+                            ]
+                        },
+                        "8": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9732A271-92A4-F713-0056-3E39D41D8A79.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA450",
+                                    "nome": "Seminário de Monografia",
+                                    "descricao": "Distincao entre pesquisa cientifica, tecnologica e de natureza pragmatica. Natureza dos metodos e tecnicas administrativas. Natureza das problematicas da pratica administrativa. Etapas do metodo administrativo.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A3E8-92A4-F713-0056-3E3912651397.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA530",
+                                    "nome": "Ética da Administração",
+                                    "descricao": "Etica: origens; tradicoes eticas; teorias morais; responsabilidade. Etica na sociedade e nas organizacoes. Mito do lucro versus responsabilidade social. Deontologia: teorias teleologicas versus teorias deontologicas; deontologia dos negocios.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "FCS220"
+                                    ]
+                                }
+                            ]
+                        },
+                        "9": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329ED7-92A4-F713-0056-3E3926F07CB6.html'",
+                                    "creditos": 3,
+                                    "codigo": "ACAK01",
+                                    "nome": "Monografia",
+                                    "descricao": "Não cadastrada.",
+                                    "horas": 150,
+                                    "pre_requisito": [
+                                        "MAD210"
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "date": "1998/1 a 2018/1",
+                    "linkSiga": "https://www.siga.ufrj.br/sira/repositorio-curriculo/distribuicoes/4E99ACE1-2EDA-4DAD-AF83-3A21366D80A2.html",
+                    "periodos": {
+                        "1": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F25-92A4-F713-0056-3E3926A3D9F9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA115",
+                                    "nome": "Fundamentos da Administração",
+                                    "descricao": "Administracao: realidade, tecnologia e pratica. Ambiente externo das organizacoes. Planejamento. Controle. Dinamica administrativa. Dinamica organizacional e comportamental. Principais areas funcionais da administracao.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329F64-92A4-F713-0056-3E399076C40E.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA211",
+                                    "nome": "Informática para Administração",
+                                    "descricao": "Historico; componentes basicos e operacao de um computador. Arquivos e bancos de dados. Programacao: programas; linguagens; compiladores; algoritmos e elaboracao de programas; construcao e teste de programas.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733A04A-92A4-F713-0056-3E391493FFEE.html'",
+                                    "creditos": 4,
+                                    "codigo": "FCB121",
+                                    "nome": "Sociologia das Organizações",
+                                    "descricao": "Sociologia: objeto, conceitos, métodos. Sistema social. Organização: tipologia; sistema e tipos de autoridade; relações de influência e poder; normas.\nModelo burocrático e suas disfunções. Organização formal/informal, tecnoestrutura.\n\nBIBLIOGRAFIA BÁSICA \n1- CASTELLS, M. A sociedade em rede. Rio de Janeiro: Paz e Terra, 2001; CHAMPION, D. J. A sociologia das organizações. São Paulo: Saraiva, 1985.\n2- DOMINGUES, José Mauricio. Sociologia e modernidade: para entender a sociedade contemporânea. 2.ed. Rio de Janeiro. Civilização Brasileira. 2001.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733E8EB-92A4-F713-0056-3E39031B4B0F.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE110",
+                                    "nome": "Macroeconomia",
+                                    "descricao": "Mensuracao dos fenomenos economicos: consumo, poupanca e investimento. A moeda na economia: politica monetaria; inflacao. Crescimento e desenvolvimento: politicas conjunturais e estruturais. Balanco de pagamentos. Cambio. Divida externa.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342529-92A4-F713-0056-3E398ED61DAA.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF110",
+                                    "nome": "Introdução ao Direito",
+                                    "descricao": "Princípios fundamentais do Direito. Ato e fato jurídico. A lei e o tempo. Analogia e jurisprudência. Instituições de direito privado: direito civil e comercial. Instituições de direito publico: direito constitucional e administrativo.\n\n___BIBLIOGRAFIA BÁSICA___\n1) REALE, Miguel. Lições preliminares de Direito. São Paulo: Saraiva, 2001.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) COELHO, Fábio Ulhoa. Curso de Direito Comercial. Vol. 1. São Paulo: Saraiva, 2018.\n2) FERRAZ, J. R., Tércio Sampaio. Introdução ao Estudo do Direito: técnica, decisão, dominação. São Paulo: Atlas, 2018.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97344EC9-92A4-F713-0056-3E3995529831.html'",
+                                    "creditos": 2,
+                                    "codigo": "LEV121",
+                                    "nome": "Português Instrumental I",
+                                    "descricao": "Funcoes da linguagem. A construcao do texto: a frase; o vocabulario; o paragrafo. Comunicacao: eficacia e falacias. Redacao tecnica: monografias, dissertacoes e teses; preparacao dos originais.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973462CE-92A4-F713-0056-3E39E0C95478.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAC119",
+                                    "nome": "Matemática para Administração",
+                                    "descricao": "Funções de uma variável real. Limites. Continuidade. Derivadas. Introdução ao cálculo integral. Aplicação do cálculo integral e do cálculo diferencial as problemáticas administrativas: preço, quantidade e rendimento de produção; margem de lucro.\n\n___BIBLIOGRAFIA BÁSICA___\n1) WEBER, Jean E. Matemática para Economia e Administração. 2{ Ed. São Paulo: Editora Harbra Ltda, 1986.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LEITHOLD, Louis. O Cálculo como Geometria Analítica. 3ª Ed. São Paulo: Editora Harbra Ltda, 1994.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "2": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F45-92A4-F713-0056-3E393B6EEBB7.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA122",
+                                    "nome": "Teoria das Organizações",
+                                    "descricao": "Conceito de organização. Modelos de organização: características, condições e limites de aplicação. O papel social das organizações. Abordagem clássica da administração. Escola das relações humanas e comportamentalista. Burocracia. Abordagem sistêmica das organizações. Abordagem contingencial das organizações. Abordagens contemporâneas em estudos organizacionais: abordagem institucional, teoria da dependência de recursos, a economia dos cursos de transação, a ecologia populacional. O poder nas organizações. Perspectivas críticas e pós-modernas em estudos organizacionais. Pensamento brasileiro em estudos organizacionais. \n\n__BIBLIOGRAFIA BÁSICA__  \n1) MOTTA, Fernando Claudio Prestes; VASCONCELOS, Isabella Gouveia de. Teoria Geral da Administração. São Paulo : Pioneira Thomson Learning, 2006.\n\n__BIBLIOGRAFIA COMPLEMENTAR__  \n1) VIEIRA, Marcelo Milano Falcão; KNOPP, Glauco da Costa; ROLIM, Hygino Lima; SIMÕES, Janaina Machado e DARBILLY, Leonardo Vasconcelos Cavalier. Teoria \nGeral da Administração. Rio de Janeiro: FGV, 2012.\n2) DE PAULA, Ana Paula Paes. Teoria Crítica nas Organizações. São Paulo: Thomson, 2008.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FD1-92A4-F713-0056-3E3996BF7679.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA226",
+                                    "nome": "Matemática Financeira",
+                                    "descricao": "Juros Simples e Compostos; Taxas: Nominal, Efetiva, Proporcional e Equivalente; Fluxos de Caixa e Inflação; Taxas de Desconto; Série Uniforme; Descontos Racional e Comercial; Sistemas de Amortização de Dívidas; Análise de Fluxos de Caixa.\n     \n___BIBLIOGRAFIA BÁSICA___\n1) BOGGISS, G. J. et al. Matemática Financeira. 11ª ed. Rio de Janeiro: Editora FGV, 2012.\n\n___BIBLIOGRAFIA COMPLEMENTAR___     \n1) AYRES, Jr. F. Matemática Financeira. Coleção Schaum. São Paulo: Mcgraw Hill, 1971.   \n2) FARO, Clóvis; LACHTERMACHER, Gerson. Introdução à Matemática Financeira. Rio de Janeiro: Editora FGV, 2012.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FE1-92A4-F713-0056-3E39645D6293.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA227",
+                                    "nome": "Modelos Probabilísticos em Adm",
+                                    "descricao": "Eventos e probabilidade. Variaveis aleatorias. Processos probabilisticos. Processos markovianos. Arvore de decisao. Modelos de estoque. Teoria de filas e aplicacoes. Enfase nas aplicacoes administrativas e uso de softwares variados.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9EA8916A-92A4-F79A-5D96-340F8624B709.html'",
+                                    "creditos": 4,
+                                    "codigo": "FCP221",
+                                    "nome": "Ciência Política",
+                                    "descricao": "A possibilidade do estudo cientifico da vida politica. Grandes concepcoes da teoria politica. Diferentes tipos de sistemas politicos e suas relacoes com a dinamica social.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733E997-92A4-F713-0056-3E39FE70F01F.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE128",
+                                    "nome": "Microeconomia",
+                                    "descricao": "Funcao de producao: tipologia dos custos, substituicao, complementaridade dos fatores; progresso tecnico. Formacao do preco do mercado: funcoes da oferta e da procura; renda; elasticidade. Concorrencia pura, monopolio, oligopolio.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "IEE110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973417AC-92A4-F713-0056-3E3960FB44FB.html'",
+                                    "creditos": 4,
+                                    "codigo": "IPS120",
+                                    "nome": "Psicologia das Organizações",
+                                    "descricao": "Psicologia: conceitos, metodos. Psicologia individual: aprendizagem; memoria; individuo; maturacao; funcoes cognitivas; personalidade. Psicologia Social e Organizacional: motivacao, papeis e atitudes; relacoes interpessoais e dinamica de grupos.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "3": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F64-92A4-F713-0056-3E396553096E.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA129",
+                                    "nome": "Modelos Determinísticos em Adm",
+                                    "descricao": "Algebra matricial. Equacoes lineares. Sistemas de equacoes lineares e metodos de resolucao. Modelos e metodos de otimizacao. Programacao linear. Problemas de alocacao e transporte. Programacao mista e inteira. Programacao dinamica. Enfase nas aplicacoes administrativas e uso de softwares diversos.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9246BEA7-92A4-F79B-2DBD-95630194D34B.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA224",
+                                    "nome": "Processo Decisório",
+                                    "descricao": "Principais vertentes teóricas do processo decisório em Administração. Modelos decisórios racionais: modelo clássico; processo decisório nas estruturas; poder decisório sob condições de poder. Abordagem comportamental: heurísticas de julgamento; vieses cognitivos; conscientização limitada; formulação e inversão de preferências; influências motivacionais e emocionais; ética e decisão: árvore de decisão; aplicação de ferramentas, metodologia multicritério; probelas e axiomas.         \n\n___BIBLIOGRAFIA BÁSICA___\n1) FONTANILLAS, C. N.; BARRETO, C.R.; CRUZ, E. P. O Processo Decisório nas Organizações. 2ª ed. Parana: Intersaberes, 2020.      \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BAZERMAN, M. H.; MOORE, D. Processo Decisório. 8ª ed. Rio de Janeiro: Elsevier, 2015.\n2) YU, A. Tomada de Decisão nas Organizações: uma visão multidisciplinar. São Paulo: Saraiva, 2011.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/0E0A0BA0-92A4-F79C-1905-7E1CC3C3188F.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA302",
+                                    "nome": "Análise de Investimentos",
+                                    "descricao": "Conceito e tipos de Investimentos; Conceito de Custo de Oportunidade; Critérios de Avaliação: Payback, Taxa Interna de Retorno, Valor Presente Líquido e Índice de Lucratividade; Títulos de Renda Fixa e Renda Variável: Conceitos básicos e apreçamento; Tomada de Decisões de Investimento sob Incerteza; Racionamento de Capital; Risco e Retorno: Risco sistemático e não sistemático, diversificação; Custo de capital: Próprio, de terceiros e Custo médio ponderado de capital.       \n\n___BIBLIOGRAFIA BÁSICA___\n1) ROSS, Stephen. A. et al. Administração Financeira: Corporate Finance. 10 ed., Porto Alegre: AMGH, 2015.      \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ROSS, Stephen. A. et al. Fundamentos da Administração Financeira. 9ª ed., Porto Alegre: AMGH, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA226"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A540-92A4-F713-0056-3E391C325ACA.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACC211",
+                                    "nome": "Introdução à Contabilidade",
+                                    "descricao": "Regras e procedimentos contábeis: princípios da contabilidade; sistema contábil; lançamentos; estrutura do patrimônio líquido. Receitas, despesas e apuracão do resultado. Demonstrativos financeiros. Fundamentos de contabilidade de custos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) MARION, José Carlos. Contabilidade Empresarial. São Paulo: Atlas S/A, 2004.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FIPECAFI. Manual de Contabilidade das Sociedades por Ações. São Paulo: Atlas S/A, 2004.\n2) Equipe de Professores da FEA-USP. Contabilidade Introdutória. São Paulo: Atlas S/A, 2004.\n3) PADOVEZES, Clóvis Luis. Manual de Contabilidade Básica. São Paulo: Saraiva, 2003.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342597-92A4-F713-0056-3E3904148C02.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF120",
+                                    "nome": "Direito do Trabalho",
+                                    "descricao": "Direito do trabalho: características e finalidades. CLT. Contratos individuais e coletivos. Dissídios coletivos. Convenção coletiva de trabalho. Justiça do trabalho. Acidentes do trabalho. Fundo de garantia.\n\n___BIBLIOGRAFIA BÁSICA___\n1) MARTINS, Sérgio Pinto. Direito do Trabalho. São Paulo: Atlas, 2012.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) CASSAR, Vólia Bonfim. Direito do Trabalho. São Paulo: Método, 2018.\n2) NASCIMENTO, Amaury Mascaro. Iniciação ao Direito do Trabalho. São Paulo. LTr Ed. 2018.\n3) SÛSSEKIND, Arnaldo. Instituições de Direito do Trabalho. São Paulo. LTr Ed. 2005.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97346530-92A4-F713-0056-3E3969553B23.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAD211",
+                                    "nome": "Estatística para Administração",
+                                    "descricao": "Estatistica descritiva. Elaboracao de tabelas e graficos. Calculo combinatorio. Nocoes de probabilidade. Variaveis aleatorias discretas e continuas. Valor esperado. Amostragem e testes de hipoteses. Metodos dos minimos quadrados e correlacao.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA227"
+                                    ]
+                                }
+                            ]
+                        },
+                        "4": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F93-92A4-F713-0056-3E397499A5BC.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA221",
+                                    "nome": "Filosofia da Administração",
+                                    "descricao": "Introducao a filosofia: natureza do pensamento filosofico; nocoes de metafisica, teoria do conhecimento, etica, filosofia politica, logica; teorias filosoficas contemporaneas. Desenvolvimento de uma filosofia da administracao: nocoes de filosofia da ciencia e da tecnologia; especificidade da realidade e praticas administrativas e seu interesse com a problematica filosofica. Natureza da realidade administrativa: aspectos transcedentes; tecnologia administrativa; instancias praticas. Tecnologia administrativa: nocoes de tecnologia; bases tecnologicas; conceito de metodo; inteligencia teorica e pratica.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/974ECDCC-92A4-F79B-6FBF-B4B97C11454F.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA223",
+                                    "nome": "Metodologia da Pesquisa",
+                                    "descricao": "Conhecimento do Senso Comum e Conhecimento Científico. Pesquisa Científica e Consultoria Organizacional. Ética na Pesquisa em Administração.  Formulação de Hipóteses e Problema de Pesquisa. Método da Pesquisa Bibliográfica. Métodos e Técnicas da Pesquisa Empírica. Estudos Exploratórios, Descritivos, Correlacionais e Explicativos. Estudo de casos e casos para estudos. Revisão de Literatura. Resumo e Resenha. Técnicas de Coleta e Análise de Dados. Apresentação de Resultados: Relatório de Pesquisa e Características de um Artigo Científico.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CRESWELL, J. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. 2 ed. Porto Alegre: Artmed, 2003.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/924584AA-92A4-F79B-2DBD-95634B86F4F7.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA225",
+                                    "nome": "Organização Sistemas e Métodos",
+                                    "descricao": "Diagnóstico e intervenção organizacional. Técnicas administrativas de resolução de problemas e implantação de projetos. Gerenciamento e implantação de mudanças organizacionais. Instrumental para estruturação administrativa.\n\n___BIBLIOGRAFIA BÁSICA___\n1) LUIS CÉSAR G. DE ARAÚJO. Organização, Sistemas e Métodos e as Tecnologias de Gestão Organizacional. Volume 1. São Paulo: Atlas.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) MAXIMINIANO, A. Teoria geral da Administração. São Paulo: Atlas.\n2) ALEXANDRE DE CUNHA SERPA. Compliance descomplicado - um guia simples e direto sobre programas de compliance. Edição 1, Kindle.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A000-92A4-F713-0056-3E393B12E2E9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA228",
+                                    "nome": "Modelos Regressão e Previsão",
+                                    "descricao": "Revisão de probabilidade e inferência estatística. Modelo de regressão simples ? hipóteses, estimação (método de mínimos quadrados) e inferência (testes de hipótese e estimação de intervalos). Modelo de regressão múltipla ? estimação e inferência. Modelo de regressão múltipla ? tópicos adicionais: teste F, avaliação da colinearidade, e variáveis binárias. Falhas nas hipóteses do modelo de regressão ? testes e procedimentos de estimação: heterocedasticidade: teste de Goldfeld e Quandt, autocorrelação: teste de Durbin e Watson, regressor correlacionado com o erro aleatório: equações simultâneas. \n\n___BIBLIOGRAFIA BÁSICA___\n1) HILL, R. C.; GRIFFITHS, W. E. e JUDGE G. G. Econometria. São Paulo: Saraiva, 2003.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GUJARATI, D. N. Econometria Básica. 4ª ed. Rio de Janeiro: Campus, 2006.\n2) WOOLDRIGE, J. M. Introdução à Econometria - uma abordagem moderna. São Paulo: Thomson, 2005.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAD211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A56F-92A4-F713-0056-3E39D25FF5D3.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACC222",
+                                    "nome": "Contabilidade Gerencial",
+                                    "descricao": "Comportamento dos custos. Natureza e limites da informação contábil. Confiabilidade das informações contábeis. Decisões envolvendo informações incompletas. Processo de tomada de decisão: incerteza e risco. Orçamento empresarial: custo padrão; prática orçamentaria; condições inflacionarias; utilização de sistemas de informações; uso de aplicativos informáticos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) ANTHONY, Robert N; GOVINDARAJAN, Vijay. Sistemas de Controle gerencial. Tradução: Adalberto Ferreira das Neves. São Paulo: Atlas, 2002. 1019p.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ATKINSON, Anthony A., et al. Contabilidade Gerencial. Tradução: André Olímpio Mosselman e Du Chenoy Castro. São Paulo: 2000. 812p.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACC211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342623-92A4-F713-0056-3E39CC54F12D.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF210",
+                                    "nome": "Direito Comercial",
+                                    "descricao": "A empresa e o direito. Ato e materia de comercio. Direitos e obrigacoes. Sociedade: tipos; dissolucao e liquidacao. Marca de comercio. Titulos de credito. Contratos mercantins. Bolsa de valores e mercadorias. Instituicoes financeiras.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                }
+                            ]
+                        },
+                        "5": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/92410FA0-92A4-F79B-2DBD-95638F9ACA25.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA301",
+                                    "nome": "Fundamentos de Logística",
+                                    "descricao": "A logistica e seus subsistemas. Interfaces da logistica com as demais areas funcionais. O ambiente logistico. Decisoes logisticas. Organizacao da atividades logisticas.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA129",
+                                        "ACA228"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/923BAE56-92A4-F79B-2DBD-9563BDC1265A.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA323",
+                                    "nome": "Análise de Marketing",
+                                    "descricao": "Concepcoes de marketing. Comportamento de compra do consumidor. Estudos de mercado. Previsao e mensuracao da demanda. Segmentacao do mercado. Introducao ao planejamento estrategico de marketing.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "IEE128"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9243BF02-92A4-F79B-2DBD-956338BF07C3.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA324",
+                                    "nome": "Fundamentos Recursos Humanos",
+                                    "descricao": "Distinção entre administração de pessoal, administração de recursos humanos e gestão social. Estratégias organizacionais e gestão dos componentes humanos. Problemáticas e técnicas de recursos humanos. Auditoria de recursos humanos.\n\n___BIBLIOGRAFIA BÁSICA___\n1- ULRICH D. BROCKBANK W., YOUNGER J., ULRICH M. Competências Globais de RH: Agregando valor competitivo de fora para dentro. São Paulo: Bookman, 2013.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- ARAUJO, L. C. Gestão de Pessoas: Estratégias e Integração Organizacional. São Paulo: Atlas, 2009.\n2- BOHLANDER, SNELL & SHERMAN. Administração de Recursos Humanos. São Paulo: Pioneiras Thomson Learning, 2003.\n3- MILKOVICH, George T., BOUDREAU, John, W. Administração de Recursos Humanos. São Paulo: Atlas, 2008.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/A597BBB3-92A4-F79A-1543-938E04DBF0A9.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA325",
+                                    "nome": "Administração Internacional",
+                                    "descricao": "Ambiente internacional de empresa. Formulacao e implementacao da estrategia internacional. Gestao internacional da empresa. Gerencia de marketing. Gerencia financeira internacional. Organizacao e controle.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IEE110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/A5A1E761-92A4-F79A-1543-938E50D0F21C.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA326",
+                                    "nome": "Administração Estratégica",
+                                    "descricao": "Definições de Estratégia. Escola do Design. Escola de Planejamento. Escola de Posicionamento. Escola Cognitiva. Escola de Aprendizado. Escola de Poder. Escola Cultural. Escola Ambiental. Escola de Configuração. \n\n___BIBLIOGRAFIA BÁSICA___\n1) MINTZBERG, H.; AHLSTRAND, B.; LAMPEL, J. Safári de Estratégia: um roteiro pela selva do planejamento estratégico. Porto Alegre: Bookman, 2010 (reimpressão em 2015).\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) OLIVEIRA, D. P. R. Planejamento Estratégico: conceitos, metodologia, práticas. São Paulo: Atlas, 2018.\n2) SERRA, F. R.; FERREIRA, M. P.; TORRES, M. C.; TORRES, A. P. Administração Estratégica: conceitos, roteiros práticos e casos. Rio de Janeiro: Elsevier, 2015.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0CB-92A4-F713-0056-3E39D10F03ED.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA332",
+                                    "nome": "Gerência Financeira",
+                                    "descricao": "Objetivos e funções da Administração Financeira; Análise das demonstrações financeiras; Decisões de Capital de Giro: Investimentos em Caixa, em Duplicatas a Receber e em Estoque; Orçamento de Caixa; Custo de Capital: próprio, de terceiros e custo médio ponderado de capital; Estrutura de Capital: as proposições de Modigliani e Miller;  Alavancagem Financeira e Operacional; Controle Orçamentário; Fusões e Aquisições.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CAVICHINI, Alexis. Análise Financeira. Rio de Janeiro: Caeli-Inovarte, 2018 (edição em e-book e vídeo por striming).\n2) ROSS, Stephen. A. et al. Administração Financeira: Corporate Finance. 10ª ed., Porto Alegre: AMGH, 2015. \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1)BRIGHAM, Eugene; HOUSTON, Joel F. Fundamentos da Moderna Administração Financeira. Rio de Janeiro: Editora Campus: 1999.\n2) CAVICHINI, Alexis. Análise Financeira. São Paulo: Editora Tamr, 1997.\n3) COPELAND, Tom; KOLLER, Tim; MURIN, Jack. Avaliação de Empresas - Valuation - Calculando e Gerenciando o Valor da Empresa. 3ª ed., São Paulo: Pearson-Makron Books, 2002.\n4) ROSS, Stephen. A. et al. Administração Financeira. 9ª ed., Porto Alegre: AMGH, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA302",
+                                        "ACC222"
+                                    ]
+                                }
+                            ]
+                        },
+                        "6": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9247F945-92A4-F79B-2DBD-95639CBB7DFF.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA222",
+                                    "nome": "Sist de Informações Gerenciais",
+                                    "descricao": "Papel da informacao nas organizacoes. Sistemas de informacoes. Metodos de informatizacao. Concepcao e utilizacao de banco de dados. Gestao de um sistema de informacoes. O usuario de um sistema de informacoes.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA211",
+                                        "ACC222"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0AC-92A4-F713-0056-3E3986AA69C8.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA330",
+                                    "nome": "Modelagem e Simulação Sistemas",
+                                    "descricao": "Conceito de sistema, modelo e simulacao de sistemas. Etapas da simulacao. Linguagem da simulacao discreta e de simulacao continua. Tecnicas de simulacao. Validacao e implementacao dos modelos.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA129",
+                                        "ACA228"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/7AAFFF33-92A4-F799-1C4E-44715A841637.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA331",
+                                    "nome": "Administração da Produção",
+                                    "descricao": "Concepção de sistemas de produção: produtos; processos; modos operacionais; normas de produção, implantação e manutenção. Implementação e controle do funcionamento de sistemas. Metodologias de estudo de sistemas de produção.\n\n___BIBLIOGRAFIA BÁSICA___\n1- CORRÊA, H. CORRÊA, C. Administração de produção e operações: uma abordagem estratégica. São Paulo: Atlas, 2011.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- CHASE, R. B.; JACOBS, F. R.; AQUILANO, N. J. Administração da produção e operações para vantagens competitivas. 11 ed. São Paulo: McGraw-Hill, 2006.\n2- SIMCHI-LEVI, D. Operations rules: delivering customer value through flexible operations. The MIT Press, 2010.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0DB-92A4-F713-0056-3E396357B2B9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA333",
+                                    "nome": "Políticas de Marketing",
+                                    "descricao": "Estrategia de marketing. Orcamento de marketing. Politica de produtos/servicos. Politica de precos. Politica de distribuicao. Politica de comunicacao. Politica de forca de vendas.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA323"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0EB-92A4-F713-0056-3E39FB9F1779.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA334",
+                                    "nome": "Políticas de Recursos Humanos",
+                                    "descricao": "Politica de recrutamento e selecao. Politica de avaliacao de cargos e salarios. Politica de desenvolvimento organizacional. Politica de treinamento. Politica de promocao e planos de carreira.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA324"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/7ABAF4F9-92A4-F799-1C4E-447139256CAF.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA341",
+                                    "nome": "Adm de Compras e Materiais",
+                                    "descricao": "Papel e escopo da função de compras. Seleção de fornecedores. Técnicas de compras. Integração das funções de compra e material. Classificação de materiais. Determinação das necessidades de material. Armazenagem e movimentação de materiais.\n\n___BIBLIOGRAFIA BÁSICA___\n1- CORRÊA, H. CORRÊA, C. Administração de produção e operações: uma abordagem estratégica. São Paulo: Atlas, 2011.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- CHASE, R. B.; JACOBS, F. R.; AQUILANO, N. J. Administração da produção e operações para vantagens competitivas. 11 ed. São Paulo: McGraw-Hill, 2006.\n2- SIMCHI-LEVI, D. Operations rules: delivering customer value through flexible operations. The MIT Press, 2010.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                }
+                            ]
+                        },
+                        "7": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/923CBF16-92A4-F79B-2DBD-9563896258FA.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA440",
+                                    "nome": "Comunicações Administrativas",
+                                    "descricao": "Pratica da comunicacao: Modos da comunicacao e modos de estruturacao das relacoes individuais e sociais. Comunicacao em relacoes interpessoais e em grupos reduzidos. Comunicacoes administrativas orais. Comunicacoes administrativas escritas.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/923DE804-92A4-F79B-2DBD-9563E7E3FC76.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACAU01",
+                                    "nome": "Estágio Supervisionado",
+                                    "descricao": "Possibilitar ao aluno uma participacao efetiva no contexto da gestao de uma empresa publica ou privada de modo a integrar os conteudos teoricos com a pratica da gestao empresarial.",
+                                    "horas": 300,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973426DF-92A4-F713-0056-3E39EAB21719.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF400",
+                                    "nome": "Gerência Tributária",
+                                    "descricao": "Atividades economicas e financeiras do Estado. Nocoes gerais sobre tributacao. Codigos tributarios. Fato gerador. Sujeitos ativos e passivos. Obrigacao tributaria e credito tributario. Planejamento tributario. Creditos e debitos tributarios.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                }
+                            ]
+                        },
+                        "8": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9732A271-92A4-F713-0056-3E39D41D8A79.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA450",
+                                    "nome": "Seminário de Monografia",
+                                    "descricao": "Distincao entre pesquisa cientifica, tecnologica e de natureza pragmatica. Natureza dos metodos e tecnicas administrativas. Natureza das problematicas da pratica administrativa. Etapas do metodo administrativo.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/923EECAA-92A4-F79B-2DBD-95632C4E5C4B.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA530",
+                                    "nome": "Ética da Administração",
+                                    "descricao": "Ética: origens; tradições éticas; teorias morais; responsabilidade. Ética na sociedade e nas organizações. Mito do lucro versus responsabilidade social. Deontologia: teorias teleológicas versus teorias deontológicas; deontologia dos negócios.\n\n___BIBLIOGRAFIA BÁSICA___\n1) COMTE-SPONVILLE, A. A moral. In: Apresentação da Filosofia. São Paulo: Martins Fontes, 2002, p. 17-26.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ARANHA, M.; MARTINS, M. Teorias Éticas. In: Filosofando: Introdução à Filosofia. 4 ed. São Paulo: Moderna, 2009, p. 247-262.\n2) DEMPSEY, J. Moral responsability, shared values, and corporate culture. Business Ethics Quarterly, v. 25, n. 3, p. 319-340, 2015.\n3) FISHER, J. Surface and deep approaches to business ethics. Leadership & Organization Development Journal, v. 24, n. 2, p. 96-101, 2003.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA221"
+                                    ]
+                                }
+                            ]
+                        },
+                        "9": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329ED7-92A4-F713-0056-3E3936E85BC7.html'",
+                                    "creditos": 5,
+                                    "codigo": "ACAK01",
+                                    "nome": "Monografia",
+                                    "descricao": "Proposicao escrita sobre qualquer principio ou campo da Administracao, abrangido direta ou indiretamemte pelos programas das disciplinas obrigatorias ou complementares lecionadas no curso. Devera revelar a capacidade do aluno de aplicar com rigor e competencia algum ou alguns dos instrumentos de analise proprios do campo de pesquisa, ou de pesquisas interdisciplinares associadas a area da Administracao, num nivel de exigencia compativel com o que se espera de um profissionalem inicio de carreira e obedecendo aos criterios basicos de um trabalho academico.",
+                                    "horas": 180,
+                                    "pre_requisito": [
+                                        "ACA450"
+                                    ]
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 8,
+                                    "codigo": "Atividades Academicas de Livre Escolha",
+                                    "nome": "Atividades Academicas de Livre Escolha",
+                                    "descricao": "",
+                                    "horas": 120,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "date": "2018/2 a 2022/1",
+                    "linkSiga": "https://www.siga.ufrj.br/sira/repositorio-curriculo/distribuicoes/FD804294-92A4-F799-634F-A707C86F4A33.html",
+                    "periodos": {
+                        "1": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F25-92A4-F713-0056-3E3926A3D9F9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA115",
+                                    "nome": "Fundamentos da Administração",
+                                    "descricao": "Administracao: realidade, tecnologia e pratica. Ambiente externo das organizacoes. Planejamento. Controle. Dinamica administrativa. Dinamica organizacional e comportamental. Principais areas funcionais da administracao.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329F64-92A4-F713-0056-3E399076C40E.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA211",
+                                    "nome": "Informática para Administração",
+                                    "descricao": "Historico; componentes basicos e operacao de um computador. Arquivos e bancos de dados. Programacao: programas; linguagens; compiladores; algoritmos e elaboracao de programas; construcao e teste de programas.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9246BEA7-92A4-F79B-2DBD-95630194D34B.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA224",
+                                    "nome": "Processo Decisório",
+                                    "descricao": "Principais vertentes teóricas do processo decisório em Administração. Modelos decisórios racionais: modelo clássico; processo decisório nas estruturas; poder decisório sob condições de poder. Abordagem comportamental: heurísticas de julgamento; vieses cognitivos; conscientização limitada; formulação e inversão de preferências; influências motivacionais e emocionais; ética e decisão: árvore de decisão; aplicação de ferramentas, metodologia multicritério; probelas e axiomas.         \n\n___BIBLIOGRAFIA BÁSICA___\n1) FONTANILLAS, C. N.; BARRETO, C.R.; CRUZ, E. P. O Processo Decisório nas Organizações. 2ª ed. Parana: Intersaberes, 2020.      \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BAZERMAN, M. H.; MOORE, D. Processo Decisório. 8ª ed. Rio de Janeiro: Elsevier, 2015.\n2) YU, A. Tomada de Decisão nas Organizações: uma visão multidisciplinar. São Paulo: Saraiva, 2011.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733A04A-92A4-F713-0056-3E391493FFEE.html'",
+                                    "creditos": 4,
+                                    "codigo": "FCB121",
+                                    "nome": "Sociologia das Organizações",
+                                    "descricao": "Sociologia: objeto, conceitos, métodos. Sistema social. Organização: tipologia; sistema e tipos de autoridade; relações de influência e poder; normas.\nModelo burocrático e suas disfunções. Organização formal/informal, tecnoestrutura.\n\nBIBLIOGRAFIA BÁSICA \n1- CASTELLS, M. A sociedade em rede. Rio de Janeiro: Paz e Terra, 2001; CHAMPION, D. J. A sociologia das organizações. São Paulo: Saraiva, 1985.\n2- DOMINGUES, José Mauricio. Sociologia e modernidade: para entender a sociedade contemporânea. 2.ed. Rio de Janeiro. Civilização Brasileira. 2001.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342529-92A4-F713-0056-3E398ED61DAA.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF110",
+                                    "nome": "Introdução ao Direito",
+                                    "descricao": "Princípios fundamentais do Direito. Ato e fato jurídico. A lei e o tempo. Analogia e jurisprudência. Instituições de direito privado: direito civil e comercial. Instituições de direito publico: direito constitucional e administrativo.\n\n___BIBLIOGRAFIA BÁSICA___\n1) REALE, Miguel. Lições preliminares de Direito. São Paulo: Saraiva, 2001.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) COELHO, Fábio Ulhoa. Curso de Direito Comercial. Vol. 1. São Paulo: Saraiva, 2018.\n2) FERRAZ, J. R., Tércio Sampaio. Introdução ao Estudo do Direito: técnica, decisão, dominação. São Paulo: Atlas, 2018.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97344EC9-92A4-F713-0056-3E3995529831.html'",
+                                    "creditos": 2,
+                                    "codigo": "LEV121",
+                                    "nome": "Português Instrumental I",
+                                    "descricao": "Funcoes da linguagem. A construcao do texto: a frase; o vocabulario; o paragrafo. Comunicacao: eficacia e falacias. Redacao tecnica: monografias, dissertacoes e teses; preparacao dos originais.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973462CE-92A4-F713-0056-3E39E0C95478.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAC119",
+                                    "nome": "Matemática para Administração",
+                                    "descricao": "Funções de uma variável real. Limites. Continuidade. Derivadas. Introdução ao cálculo integral. Aplicação do cálculo integral e do cálculo diferencial as problemáticas administrativas: preço, quantidade e rendimento de produção; margem de lucro.\n\n___BIBLIOGRAFIA BÁSICA___\n1) WEBER, Jean E. Matemática para Economia e Administração. 2{ Ed. São Paulo: Editora Harbra Ltda, 1986.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LEITHOLD, Louis. O Cálculo como Geometria Analítica. 3ª Ed. São Paulo: Editora Harbra Ltda, 1994.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "2": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F45-92A4-F713-0056-3E393B6EEBB7.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA122",
+                                    "nome": "Teoria das Organizações",
+                                    "descricao": "Conceito de organização. Modelos de organização: características, condições e limites de aplicação. O papel social das organizações. Abordagem clássica da administração. Escola das relações humanas e comportamentalista. Burocracia. Abordagem sistêmica das organizações. Abordagem contingencial das organizações. Abordagens contemporâneas em estudos organizacionais: abordagem institucional, teoria da dependência de recursos, a economia dos cursos de transação, a ecologia populacional. O poder nas organizações. Perspectivas críticas e pós-modernas em estudos organizacionais. Pensamento brasileiro em estudos organizacionais. \n\n__BIBLIOGRAFIA BÁSICA__  \n1) MOTTA, Fernando Claudio Prestes; VASCONCELOS, Isabella Gouveia de. Teoria Geral da Administração. São Paulo : Pioneira Thomson Learning, 2006.\n\n__BIBLIOGRAFIA COMPLEMENTAR__  \n1) VIEIRA, Marcelo Milano Falcão; KNOPP, Glauco da Costa; ROLIM, Hygino Lima; SIMÕES, Janaina Machado e DARBILLY, Leonardo Vasconcelos Cavalier. Teoria \nGeral da Administração. Rio de Janeiro: FGV, 2012.\n2) DE PAULA, Ana Paula Paes. Teoria Crítica nas Organizações. São Paulo: Thomson, 2008.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FD1-92A4-F713-0056-3E3996BF7679.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA226",
+                                    "nome": "Matemática Financeira",
+                                    "descricao": "Juros Simples e Compostos; Taxas: Nominal, Efetiva, Proporcional e Equivalente; Fluxos de Caixa e Inflação; Taxas de Desconto; Série Uniforme; Descontos Racional e Comercial; Sistemas de Amortização de Dívidas; Análise de Fluxos de Caixa.\n     \n___BIBLIOGRAFIA BÁSICA___\n1) BOGGISS, G. J. et al. Matemática Financeira. 11ª ed. Rio de Janeiro: Editora FGV, 2012.\n\n___BIBLIOGRAFIA COMPLEMENTAR___     \n1) AYRES, Jr. F. Matemática Financeira. Coleção Schaum. São Paulo: Mcgraw Hill, 1971.   \n2) FARO, Clóvis; LACHTERMACHER, Gerson. Introdução à Matemática Financeira. Rio de Janeiro: Editora FGV, 2012.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FE1-92A4-F713-0056-3E39645D6293.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA227",
+                                    "nome": "Modelos Probabilísticos em Adm",
+                                    "descricao": "Eventos e probabilidade. Variaveis aleatorias. Processos probabilisticos. Processos markovianos. Arvore de decisao. Modelos de estoque. Teoria de filas e aplicacoes. Enfase nas aplicacoes administrativas e uso de softwares variados.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9EA8916A-92A4-F79A-5D96-340F8624B709.html'",
+                                    "creditos": 4,
+                                    "codigo": "FCP221",
+                                    "nome": "Ciência Política",
+                                    "descricao": "A possibilidade do estudo cientifico da vida politica. Grandes concepcoes da teoria politica. Diferentes tipos de sistemas politicos e suas relacoes com a dinamica social.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733E997-92A4-F713-0056-3E39FE70F01F.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE128",
+                                    "nome": "Microeconomia",
+                                    "descricao": "Funcao de producao: tipologia dos custos, substituicao, complementaridade dos fatores; progresso tecnico. Formacao do preco do mercado: funcoes da oferta e da procura; renda; elasticidade. Concorrencia pura, monopolio, oligopolio.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "IEE110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973417AC-92A4-F713-0056-3E3960FB44FB.html'",
+                                    "creditos": 4,
+                                    "codigo": "IPS120",
+                                    "nome": "Psicologia das Organizações",
+                                    "descricao": "Psicologia: conceitos, metodos. Psicologia individual: aprendizagem; memoria; individuo; maturacao; funcoes cognitivas; personalidade. Psicologia Social e Organizacional: motivacao, papeis e atitudes; relacoes interpessoais e dinamica de grupos.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "3": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F64-92A4-F713-0056-3E396553096E.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA129",
+                                    "nome": "Modelos Determinísticos em Adm",
+                                    "descricao": "Algebra matricial. Equacoes lineares. Sistemas de equacoes lineares e metodos de resolucao. Modelos e metodos de otimizacao. Programacao linear. Problemas de alocacao e transporte. Programacao mista e inteira. Programacao dinamica. Enfase nas aplicacoes administrativas e uso de softwares diversos.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/0E0A0BA0-92A4-F79C-1905-7E1CC3C3188F.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA302",
+                                    "nome": "Análise de Investimentos",
+                                    "descricao": "Conceito e tipos de Investimentos; Conceito de Custo de Oportunidade; Critérios de Avaliação: Payback, Taxa Interna de Retorno, Valor Presente Líquido e Índice de Lucratividade; Títulos de Renda Fixa e Renda Variável: Conceitos básicos e apreçamento; Tomada de Decisões de Investimento sob Incerteza; Racionamento de Capital; Risco e Retorno: Risco sistemático e não sistemático, diversificação; Custo de capital: Próprio, de terceiros e Custo médio ponderado de capital.       \n\n___BIBLIOGRAFIA BÁSICA___\n1) ROSS, Stephen. A. et al. Administração Financeira: Corporate Finance. 10 ed., Porto Alegre: AMGH, 2015.      \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ROSS, Stephen. A. et al. Fundamentos da Administração Financeira. 9ª ed., Porto Alegre: AMGH, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA226"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A540-92A4-F713-0056-3E391C325ACA.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACC211",
+                                    "nome": "Introdução à Contabilidade",
+                                    "descricao": "Regras e procedimentos contábeis: princípios da contabilidade; sistema contábil; lançamentos; estrutura do patrimônio líquido. Receitas, despesas e apuracão do resultado. Demonstrativos financeiros. Fundamentos de contabilidade de custos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) MARION, José Carlos. Contabilidade Empresarial. São Paulo: Atlas S/A, 2004.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FIPECAFI. Manual de Contabilidade das Sociedades por Ações. São Paulo: Atlas S/A, 2004.\n2) Equipe de Professores da FEA-USP. Contabilidade Introdutória. São Paulo: Atlas S/A, 2004.\n3) PADOVEZES, Clóvis Luis. Manual de Contabilidade Básica. São Paulo: Saraiva, 2003.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9733E8EB-92A4-F713-0056-3E39031B4B0F.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE110",
+                                    "nome": "Macroeconomia",
+                                    "descricao": "Mensuracao dos fenomenos economicos: consumo, poupanca e investimento. A moeda na economia: politica monetaria; inflacao. Crescimento e desenvolvimento: politicas conjunturais e estruturais. Balanco de pagamentos. Cambio. Divida externa.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342597-92A4-F713-0056-3E3904148C02.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF120",
+                                    "nome": "Direito do Trabalho",
+                                    "descricao": "Direito do trabalho: características e finalidades. CLT. Contratos individuais e coletivos. Dissídios coletivos. Convenção coletiva de trabalho. Justiça do trabalho. Acidentes do trabalho. Fundo de garantia.\n\n___BIBLIOGRAFIA BÁSICA___\n1) MARTINS, Sérgio Pinto. Direito do Trabalho. São Paulo: Atlas, 2012.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) CASSAR, Vólia Bonfim. Direito do Trabalho. São Paulo: Método, 2018.\n2) NASCIMENTO, Amaury Mascaro. Iniciação ao Direito do Trabalho. São Paulo. LTr Ed. 2018.\n3) SÛSSEKIND, Arnaldo. Instituições de Direito do Trabalho. São Paulo. LTr Ed. 2005.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97346530-92A4-F713-0056-3E3969553B23.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAD211",
+                                    "nome": "Estatística para Administração",
+                                    "descricao": "Estatistica descritiva. Elaboracao de tabelas e graficos. Calculo combinatorio. Nocoes de probabilidade. Variaveis aleatorias discretas e continuas. Valor esperado. Amostragem e testes de hipoteses. Metodos dos minimos quadrados e correlacao.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA227"
+                                    ]
+                                }
+                            ]
+                        },
+                        "4": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F93-92A4-F713-0056-3E397499A5BC.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA221",
+                                    "nome": "Filosofia da Administração",
+                                    "descricao": "Introducao a filosofia: natureza do pensamento filosofico; nocoes de metafisica, teoria do conhecimento, etica, filosofia politica, logica; teorias filosoficas contemporaneas. Desenvolvimento de uma filosofia da administracao: nocoes de filosofia da ciencia e da tecnologia; especificidade da realidade e praticas administrativas e seu interesse com a problematica filosofica. Natureza da realidade administrativa: aspectos transcedentes; tecnologia administrativa; instancias praticas. Tecnologia administrativa: nocoes de tecnologia; bases tecnologicas; conceito de metodo; inteligencia teorica e pratica.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/974ECDCC-92A4-F79B-6FBF-B4B97C11454F.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA223",
+                                    "nome": "Metodologia da Pesquisa",
+                                    "descricao": "Conhecimento do Senso Comum e Conhecimento Científico. Pesquisa Científica e Consultoria Organizacional. Ética na Pesquisa em Administração.  Formulação de Hipóteses e Problema de Pesquisa. Método da Pesquisa Bibliográfica. Métodos e Técnicas da Pesquisa Empírica. Estudos Exploratórios, Descritivos, Correlacionais e Explicativos. Estudo de casos e casos para estudos. Revisão de Literatura. Resumo e Resenha. Técnicas de Coleta e Análise de Dados. Apresentação de Resultados: Relatório de Pesquisa e Características de um Artigo Científico.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CRESWELL, J. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. 2 ed. Porto Alegre: Artmed, 2003.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/924584AA-92A4-F79B-2DBD-95634B86F4F7.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA225",
+                                    "nome": "Organização Sistemas e Métodos",
+                                    "descricao": "Diagnóstico e intervenção organizacional. Técnicas administrativas de resolução de problemas e implantação de projetos. Gerenciamento e implantação de mudanças organizacionais. Instrumental para estruturação administrativa.\n\n___BIBLIOGRAFIA BÁSICA___\n1) LUIS CÉSAR G. DE ARAÚJO. Organização, Sistemas e Métodos e as Tecnologias de Gestão Organizacional. Volume 1. São Paulo: Atlas.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) MAXIMINIANO, A. Teoria geral da Administração. São Paulo: Atlas.\n2) ALEXANDRE DE CUNHA SERPA. Compliance descomplicado - um guia simples e direto sobre programas de compliance. Edição 1, Kindle.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A000-92A4-F713-0056-3E393B12E2E9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA228",
+                                    "nome": "Modelos Regressão e Previsão",
+                                    "descricao": "Revisão de probabilidade e inferência estatística. Modelo de regressão simples ? hipóteses, estimação (método de mínimos quadrados) e inferência (testes de hipótese e estimação de intervalos). Modelo de regressão múltipla ? estimação e inferência. Modelo de regressão múltipla ? tópicos adicionais: teste F, avaliação da colinearidade, e variáveis binárias. Falhas nas hipóteses do modelo de regressão ? testes e procedimentos de estimação: heterocedasticidade: teste de Goldfeld e Quandt, autocorrelação: teste de Durbin e Watson, regressor correlacionado com o erro aleatório: equações simultâneas. \n\n___BIBLIOGRAFIA BÁSICA___\n1) HILL, R. C.; GRIFFITHS, W. E. e JUDGE G. G. Econometria. São Paulo: Saraiva, 2003.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GUJARATI, D. N. Econometria Básica. 4ª ed. Rio de Janeiro: Campus, 2006.\n2) WOOLDRIGE, J. M. Introdução à Econometria - uma abordagem moderna. São Paulo: Thomson, 2005.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAD211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A56F-92A4-F713-0056-3E39D25FF5D3.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACC222",
+                                    "nome": "Contabilidade Gerencial",
+                                    "descricao": "Comportamento dos custos. Natureza e limites da informação contábil. Confiabilidade das informações contábeis. Decisões envolvendo informações incompletas. Processo de tomada de decisão: incerteza e risco. Orçamento empresarial: custo padrão; prática orçamentaria; condições inflacionarias; utilização de sistemas de informações; uso de aplicativos informáticos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) ANTHONY, Robert N; GOVINDARAJAN, Vijay. Sistemas de Controle gerencial. Tradução: Adalberto Ferreira das Neves. São Paulo: Atlas, 2002. 1019p.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ATKINSON, Anthony A., et al. Contabilidade Gerencial. Tradução: André Olímpio Mosselman e Du Chenoy Castro. São Paulo: 2000. 812p.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACC211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97342623-92A4-F713-0056-3E39CC54F12D.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF210",
+                                    "nome": "Direito Comercial",
+                                    "descricao": "A empresa e o direito. Ato e materia de comercio. Direitos e obrigacoes. Sociedade: tipos; dissolucao e liquidacao. Marca de comercio. Titulos de credito. Contratos mercantins. Bolsa de valores e mercadorias. Instituicoes financeiras.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                }
+                            ]
+                        },
+                        "5": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/92410FA0-92A4-F79B-2DBD-95638F9ACA25.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA301",
+                                    "nome": "Fundamentos de Logística",
+                                    "descricao": "A logistica e seus subsistemas. Interfaces da logistica com as demais areas funcionais. O ambiente logistico. Decisoes logisticas. Organizacao da atividades logisticas.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA129",
+                                        "ACA228"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/923BAE56-92A4-F79B-2DBD-9563BDC1265A.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA323",
+                                    "nome": "Análise de Marketing",
+                                    "descricao": "Concepcoes de marketing. Comportamento de compra do consumidor. Estudos de mercado. Previsao e mensuracao da demanda. Segmentacao do mercado. Introducao ao planejamento estrategico de marketing.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "IEE128"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9243BF02-92A4-F79B-2DBD-956338BF07C3.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA324",
+                                    "nome": "Fundamentos Recursos Humanos",
+                                    "descricao": "Distinção entre administração de pessoal, administração de recursos humanos e gestão social. Estratégias organizacionais e gestão dos componentes humanos. Problemáticas e técnicas de recursos humanos. Auditoria de recursos humanos.\n\n___BIBLIOGRAFIA BÁSICA___\n1- ULRICH D. BROCKBANK W., YOUNGER J., ULRICH M. Competências Globais de RH: Agregando valor competitivo de fora para dentro. São Paulo: Bookman, 2013.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- ARAUJO, L. C. Gestão de Pessoas: Estratégias e Integração Organizacional. São Paulo: Atlas, 2009.\n2- BOHLANDER, SNELL & SHERMAN. Administração de Recursos Humanos. São Paulo: Pioneiras Thomson Learning, 2003.\n3- MILKOVICH, George T., BOUDREAU, John, W. Administração de Recursos Humanos. São Paulo: Atlas, 2008.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/A597BBB3-92A4-F79A-1543-938E04DBF0A9.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA325",
+                                    "nome": "Administração Internacional",
+                                    "descricao": "Ambiente internacional de empresa. Formulacao e implementacao da estrategia internacional. Gestao internacional da empresa. Gerencia de marketing. Gerencia financeira internacional. Organizacao e controle.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IEE110"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/A5A1E761-92A4-F79A-1543-938E50D0F21C.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA326",
+                                    "nome": "Administração Estratégica",
+                                    "descricao": "Definições de Estratégia. Escola do Design. Escola de Planejamento. Escola de Posicionamento. Escola Cognitiva. Escola de Aprendizado. Escola de Poder. Escola Cultural. Escola Ambiental. Escola de Configuração. \n\n___BIBLIOGRAFIA BÁSICA___\n1) MINTZBERG, H.; AHLSTRAND, B.; LAMPEL, J. Safári de Estratégia: um roteiro pela selva do planejamento estratégico. Porto Alegre: Bookman, 2010 (reimpressão em 2015).\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) OLIVEIRA, D. P. R. Planejamento Estratégico: conceitos, metodologia, práticas. São Paulo: Atlas, 2018.\n2) SERRA, F. R.; FERREIRA, M. P.; TORRES, M. C.; TORRES, A. P. Administração Estratégica: conceitos, roteiros práticos e casos. Rio de Janeiro: Elsevier, 2015.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0CB-92A4-F713-0056-3E39D10F03ED.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA332",
+                                    "nome": "Gerência Financeira",
+                                    "descricao": "Objetivos e funções da Administração Financeira; Análise das demonstrações financeiras; Decisões de Capital de Giro: Investimentos em Caixa, em Duplicatas a Receber e em Estoque; Orçamento de Caixa; Custo de Capital: próprio, de terceiros e custo médio ponderado de capital; Estrutura de Capital: as proposições de Modigliani e Miller;  Alavancagem Financeira e Operacional; Controle Orçamentário; Fusões e Aquisições.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CAVICHINI, Alexis. Análise Financeira. Rio de Janeiro: Caeli-Inovarte, 2018 (edição em e-book e vídeo por striming).\n2) ROSS, Stephen. A. et al. Administração Financeira: Corporate Finance. 10ª ed., Porto Alegre: AMGH, 2015. \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1)BRIGHAM, Eugene; HOUSTON, Joel F. Fundamentos da Moderna Administração Financeira. Rio de Janeiro: Editora Campus: 1999.\n2) CAVICHINI, Alexis. Análise Financeira. São Paulo: Editora Tamr, 1997.\n3) COPELAND, Tom; KOLLER, Tim; MURIN, Jack. Avaliação de Empresas - Valuation - Calculando e Gerenciando o Valor da Empresa. 3ª ed., São Paulo: Pearson-Makron Books, 2002.\n4) ROSS, Stephen. A. et al. Administração Financeira. 9ª ed., Porto Alegre: AMGH, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA302",
+                                        "ACC222"
+                                    ]
+                                }
+                            ]
+                        },
+                        "6": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9247F945-92A4-F79B-2DBD-95639CBB7DFF.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA222",
+                                    "nome": "Sist de Informações Gerenciais",
+                                    "descricao": "Papel da informacao nas organizacoes. Sistemas de informacoes. Metodos de informatizacao. Concepcao e utilizacao de banco de dados. Gestao de um sistema de informacoes. O usuario de um sistema de informacoes.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA211",
+                                        "ACC222"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0AC-92A4-F713-0056-3E3986AA69C8.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA330",
+                                    "nome": "Modelagem e Simulação Sistemas",
+                                    "descricao": "Conceito de sistema, modelo e simulacao de sistemas. Etapas da simulacao. Linguagem da simulacao discreta e de simulacao continua. Tecnicas de simulacao. Validacao e implementacao dos modelos.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA129",
+                                        "ACA228"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/7AAFFF33-92A4-F799-1C4E-44715A841637.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA331",
+                                    "nome": "Administração da Produção",
+                                    "descricao": "Concepção de sistemas de produção: produtos; processos; modos operacionais; normas de produção, implantação e manutenção. Implementação e controle do funcionamento de sistemas. Metodologias de estudo de sistemas de produção.\n\n___BIBLIOGRAFIA BÁSICA___\n1- CORRÊA, H. CORRÊA, C. Administração de produção e operações: uma abordagem estratégica. São Paulo: Atlas, 2011.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- CHASE, R. B.; JACOBS, F. R.; AQUILANO, N. J. Administração da produção e operações para vantagens competitivas. 11 ed. São Paulo: McGraw-Hill, 2006.\n2- SIMCHI-LEVI, D. Operations rules: delivering customer value through flexible operations. The MIT Press, 2010.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0DB-92A4-F713-0056-3E396357B2B9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA333",
+                                    "nome": "Políticas de Marketing",
+                                    "descricao": "Estrategia de marketing. Orcamento de marketing. Politica de produtos/servicos. Politica de precos. Politica de distribuicao. Politica de comunicacao. Politica de forca de vendas.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA323"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0EB-92A4-F713-0056-3E39FB9F1779.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA334",
+                                    "nome": "Políticas de Recursos Humanos",
+                                    "descricao": "Politica de recrutamento e selecao. Politica de avaliacao de cargos e salarios. Politica de desenvolvimento organizacional. Politica de treinamento. Politica de promocao e planos de carreira.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA324"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/7ABAF4F9-92A4-F799-1C4E-447139256CAF.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA341",
+                                    "nome": "Adm de Compras e Materiais",
+                                    "descricao": "Papel e escopo da função de compras. Seleção de fornecedores. Técnicas de compras. Integração das funções de compra e material. Classificação de materiais. Determinação das necessidades de material. Armazenagem e movimentação de materiais.\n\n___BIBLIOGRAFIA BÁSICA___\n1- CORRÊA, H. CORRÊA, C. Administração de produção e operações: uma abordagem estratégica. São Paulo: Atlas, 2011.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1- CHASE, R. B.; JACOBS, F. R.; AQUILANO, N. J. Administração da produção e operações para vantagens competitivas. 11 ed. São Paulo: McGraw-Hill, 2006.\n2- SIMCHI-LEVI, D. Operations rules: delivering customer value through flexible operations. The MIT Press, 2010.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                }
+                            ]
+                        },
+                        "7": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/923CBF16-92A4-F79B-2DBD-9563896258FA.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA440",
+                                    "nome": "Comunicações Administrativas",
+                                    "descricao": "Pratica da comunicacao: Modos da comunicacao e modos de estruturacao das relacoes individuais e sociais. Comunicacao em relacoes interpessoais e em grupos reduzidos. Comunicacoes administrativas orais. Comunicacoes administrativas escritas.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/7B0151EF-92A4-F79C-7774-4DD8168BF52B.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACAU01",
+                                    "nome": "Estágio Supervisionado",
+                                    "descricao": "Possibilitar ao aluno uma participacao efetiva no contexto da gestao de uma empresa publica ou privada de modo a integrar os conteudos teoricos com a pratica da gestao empresarial.",
+                                    "horas": 300,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973426DF-92A4-F713-0056-3E39EAB21719.html'",
+                                    "creditos": 2,
+                                    "codigo": "IUF400",
+                                    "nome": "Gerência Tributária",
+                                    "descricao": "Atividades economicas e financeiras do Estado. Nocoes gerais sobre tributacao. Codigos tributarios. Fato gerador. Sujeitos ativos e passivos. Obrigacao tributaria e credito tributario. Planejamento tributario. Creditos e debitos tributarios.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "IUF110"
+                                    ]
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 10,
+                                    "codigo": "Atividades Academicas Optativas",
+                                    "nome": "Atividades Academicas Optativas",
+                                    "descricao": "",
+                                    "horas": 150,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "8": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9732A271-92A4-F713-0056-3E39D41D8A79.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA450",
+                                    "nome": "Seminário de Monografia",
+                                    "descricao": "Distincao entre pesquisa cientifica, tecnologica e de natureza pragmatica. Natureza dos metodos e tecnicas administrativas. Natureza das problematicas da pratica administrativa. Etapas do metodo administrativo.",
+                                    "horas": 30,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/923EECAA-92A4-F79B-2DBD-95632C4E5C4B.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA530",
+                                    "nome": "Ética da Administração",
+                                    "descricao": "Ética: origens; tradições éticas; teorias morais; responsabilidade. Ética na sociedade e nas organizações. Mito do lucro versus responsabilidade social. Deontologia: teorias teleológicas versus teorias deontológicas; deontologia dos negócios.\n\n___BIBLIOGRAFIA BÁSICA___\n1) COMTE-SPONVILLE, A. A moral. In: Apresentação da Filosofia. São Paulo: Martins Fontes, 2002, p. 17-26.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ARANHA, M.; MARTINS, M. Teorias Éticas. In: Filosofando: Introdução à Filosofia. 4 ed. São Paulo: Moderna, 2009, p. 247-262.\n2) DEMPSEY, J. Moral responsability, shared values, and corporate culture. Business Ethics Quarterly, v. 25, n. 3, p. 319-340, 2015.\n3) FISHER, J. Surface and deep approaches to business ethics. Leadership & Organization Development Journal, v. 24, n. 2, p. 96-101, 2003.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA221"
+                                    ]
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 10,
+                                    "codigo": "Atividades Academicas Optativas",
+                                    "nome": "Atividades Academicas Optativas",
+                                    "descricao": "",
+                                    "horas": 150,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "9": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329ED7-92A4-F713-0056-3E3936E85BC7.html'",
+                                    "creditos": 5,
+                                    "codigo": "ACAK01",
+                                    "nome": "Monografia",
+                                    "descricao": "Proposicao escrita sobre qualquer principio ou campo da Administracao, abrangido direta ou indiretamemte pelos programas das disciplinas obrigatorias ou complementares lecionadas no curso. Devera revelar a capacidade do aluno de aplicar com rigor e competencia algum ou alguns dos instrumentos de analise proprios do campo de pesquisa, ou de pesquisas interdisciplinares associadas a area da Administracao, num nivel de exigencia compativel com o que se espera de um profissionalem inicio de carreira e obedecendo aos criterios basicos de um trabalho academico.",
+                                    "horas": 180,
+                                    "pre_requisito": [
+                                        "ACA450"
+                                    ]
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 8,
+                                    "codigo": "Atividades Academicas de Livre Escolha",
+                                    "nome": "Atividades Academicas de Livre Escolha",
+                                    "descricao": "",
+                                    "horas": 120,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "date": "2022/2 a 9999/9",
+                    "linkSiga": "https://www.siga.ufrj.br/sira/repositorio-curriculo/distribuicoes/A65A15FE-92A4-F79C-3ACF-54A4BCD73349.html",
+                    "periodos": {
+                        "1": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/79F5F871-92A4-F79C-6E92-B19AC73C74CC.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA115",
+                                    "nome": "Fundamentos da Administração",
+                                    "descricao": "O conceito de Administração. O homem e o fenômeno organizacional. Princípios administrativos. História da Administração como ciência. Trabalho: fatores técnicos e aspecto humano. Áreas funcionais e ambiente organizacional: administração de operações e produção, administração de marketing, administração de recursos humanos, administração financeira. Processo administrativo: planejamento; organização; direção/coordenação; controle. A formação do administrador. O futuro da Administração.\n\n___BIBLIOGRAFIA BÁSICA___\n1) SOBRAL, Filipe e PECI, Alketa. Administração: teoria e prática no contexto brasileiro. São Paulo: Pearson, 2008.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) HALL, Richard. Organizações: estrutura, processos e resultados. 8ª edição. São Paulo: Prentice Hall, 2004.\n2) MORGAN, Gareth. Imagens da Organização. 2ª edição. São Paulo: Atlas, 2002.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/0108D186-0A2A-1E11-649E-BBFDB257547B.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA118",
+                                    "nome": "Direito Aplicado à Gestão",
+                                    "descricao": "Introdução ao Direito. Ramos do Direito. Princípios fundamentais do Direito. Ato e fato jurídico. A lei e o tempo. Código de Defesa do Consumidor (CDC). Introdução à legislação empresarial: definição do Direito Empresarial, empresariário individual, tipo de sociedades e pequena empresa. Noções de Direito de Trabalho. \n\nBIBLIOGRAFIA BÁSICA \n1) ALMEIDA, João Batista. Manual de Direito do Consumidor. 2ª ed. São Paulo: Saraiva, 2006. \n2) CASSAR, Vólia Bomfim. Resumo de Direito do Trabalho. 8ª ed. Niterói, RJ: Impetus, 2018. \n3) COELHO, Fábio Ulhôa. Curso de Direito Comercial. São Paulo: Saraiva, 3 vols. 2001. \n4) DIAS, José de Aguiar. Da Responsabilidade Civil. Rio de Janeiro: Forense 2003. \n5) REALE, Miguel. Lições preliminares de Direito. São Paulo: Saraiva, 2001. \n6) REIS, H. M.; REIS, C. N. P. Direito para Administradores. Vol. 1 (Introdução ao Direito, Direito Constitucional, Direito Civil). São Paulo: Thomson Learning Edições, 2006. \n7) REQUIÃO, R. Curso de Direito Comercial. 39ª Ed. São Paulo: Saraiva, 2016. \n8) VIDO, Elisabete. Manual de Direito Empresarial. Salvador: Editora JusPODIVM, 2012.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B57B068-92A4-F79C-3ACF-54A4CC7F030B.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACAX03",
+                                    "nome": "Atividades Complementares Adm",
+                                    "descricao": "Práticas Profissionais em Administração; Atividades de pesquisa; Prática docente em Administração; Outras Atividades.\n\n___BIBLIOGRAFIA BÁSICA___\n1) VEIGA-NETO, A. Princípios norteadores para um novo paradigma curricular: interdisciplinaridade, contextualização e flexibilidade em tempos de Império. In:  VEIGA, I. P. A.; NAVES, M. L. P. (Org.). Currículo e avaliação na educação superior. Araraquara: Junqueira & Marin, 2005, p.25-51.",
+                                    "horas": 90,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/D303F4A2-92A4-F799-6110-07C21F04FBFA.html'",
+                                    "creditos": 0,
+                                    "codigo": "ACAZ50",
+                                    "nome": "Ativ Curricular Extensão - Adm",
+                                    "descricao": "Atuação em atividades de extensão registradas na Pró-Reitoria de Extensão da UFRJ, como programas, projetos, cursos de extensão e eventos, coordenados por docentes do quadro permanente ou técnicos da carreira de nível superior na UFRJ. Para eventos, a atuação deverá ser na organização ou na realização do evento. Para cursos, a atuação deve ser na organização ou ministrando aulas.\n\n___ BIBLIOGRAFIA BÁSICA ___\nBibliografia recomendada pelo coordenador da atividade.",
+                                    "horas": 300,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A540-92A4-F713-0056-3E391C325ACA.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACC211",
+                                    "nome": "Introdução à Contabilidade",
+                                    "descricao": "Regras e procedimentos contábeis: princípios da contabilidade; sistema contábil; lançamentos; estrutura do patrimônio líquido. Receitas, despesas e apuracão do resultado. Demonstrativos financeiros. Fundamentos de contabilidade de custos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) MARION, José Carlos. Contabilidade Empresarial. São Paulo: Atlas S/A, 2004.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FIPECAFI. Manual de Contabilidade das Sociedades por Ações. São Paulo: Atlas S/A, 2004.\n2) Equipe de Professores da FEA-USP. Contabilidade Introdutória. São Paulo: Atlas S/A, 2004.\n3) PADOVEZES, Clóvis Luis. Manual de Contabilidade Básica. São Paulo: Saraiva, 2003.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/4509D6BD-92A4-F799-0882-B92BF262DB36.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE127",
+                                    "nome": "Microeconomia (CC)",
+                                    "descricao": "Teoria neo-clássica e teoria econômica. Teoria do consumidor. Teoria da produção. Teoria dos custos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) VARIAN, Hal. R. Microeconomia - Princípios Básicos - Uma Abordagem Moderna. Rio de Janeiro: Editora Campus. 7ª ed., 2006.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) VASCONCELLOS, Marco Antonio S. Economia - Micro e Macro. São Paulo: Editora Atlas. 4ª ed., 2006.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/973462CE-92A4-F713-0056-3E39E0C95478.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAC119",
+                                    "nome": "Matemática para Administração",
+                                    "descricao": "Funções de uma variável real. Limites. Continuidade. Derivadas. Introdução ao cálculo integral. Aplicação do cálculo integral e do cálculo diferencial as problemáticas administrativas: preço, quantidade e rendimento de produção; margem de lucro.\n\n___BIBLIOGRAFIA BÁSICA___\n1) WEBER, Jean E. Matemática para Economia e Administração. 2{ Ed. São Paulo: Editora Harbra Ltda, 1986.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LEITHOLD, Louis. O Cálculo como Geometria Analítica. 3ª Ed. São Paulo: Editora Harbra Ltda, 1994.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "2": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/97329F45-92A4-F713-0056-3E393B6EEBB7.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA122",
+                                    "nome": "Teoria das Organizações",
+                                    "descricao": "Conceito de organização. Modelos de organização: características, condições e limites de aplicação. O papel social das organizações. Abordagem clássica da administração. Escola das relações humanas e comportamentalista. Burocracia. Abordagem sistêmica das organizações. Abordagem contingencial das organizações. Abordagens contemporâneas em estudos organizacionais: abordagem institucional, teoria da dependência de recursos, a economia dos cursos de transação, a ecologia populacional. O poder nas organizações. Perspectivas críticas e pós-modernas em estudos organizacionais. Pensamento brasileiro em estudos organizacionais. \n\n__BIBLIOGRAFIA BÁSICA__  \n1) MOTTA, Fernando Claudio Prestes; VASCONCELOS, Isabella Gouveia de. Teoria Geral da Administração. São Paulo : Pioneira Thomson Learning, 2006.\n\n__BIBLIOGRAFIA COMPLEMENTAR__  \n1) VIEIRA, Marcelo Milano Falcão; KNOPP, Glauco da Costa; ROLIM, Hygino Lima; SIMÕES, Janaina Machado e DARBILLY, Leonardo Vasconcelos Cavalier. Teoria \nGeral da Administração. Rio de Janeiro: FGV, 2012.\n2) DE PAULA, Ana Paula Paes. Teoria Crítica nas Organizações. São Paulo: Thomson, 2008.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B623F8B-92A4-F79C-3ACF-54A4291B4270.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA123",
+                                    "nome": "Introdução à Adm Pública",
+                                    "descricao": "As relações Estado e sociedade no mundo contemporâneo e no Brasil; Democracia, desenvolvimento socioeconômico; accountability e Direitos Humanos; Paradigmas patrimonialista, burocrático e gerencialista na Administração pública; Conceituação e relevância das políticas públicas; governabilidade, governança e controle social. \n\n__BIBLIOGRAFIA BÁSICA__  \n1) DENHARDT, R. B. Teorias da Administração Pública. Rio de Janeiro: Cengage Learning, 2011.     \n\n__BIBLIOGRAFIA COMPLEMENTAR__  \n1) DE PAULA, Ana Paula Paes. Por uma nova gestão pública: limites e potencialidades da experiência contemporânea. Rio de Janeiro: FGV Editora, 2005.\n2) PEREIRA, José Matias. Curso de Administração Pública: foco nas instituições e ações governamentais. São Paulo: Atlas, 2010.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/93E5292C-92A4-F79C-6E92-B19A87CBB97F.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA124",
+                                    "nome": "Métodos Quantitativos em Adm",
+                                    "descricao": "Introdução à modelagem determinística aplicada à Administração; formulação de modelos; introdução a modelos de programação linear e método simples; dualidade e interpretação econômica; problemas de transporte e alocação; fluxo em redes; PERT-CPM; teoria dos jogos. \n\n__BIBLIOGRAFIA BÁSICA__  \n1) HILLIER, Frederik. S; LIEBERMAN, Gerald. J. Introdução à Pesquisa Operacional. 9 ed. São Paulo: Amgh Editora, 2013.\n\n__BIBLIOGRAFIA COMPLEMENTAR__  \n1) ARENALES, M.; ARMENTANO, V.; MORABITO, R.; YANASSE H. Pesquisa Operacional. Rio de Janeiro: Editora Elsevier, 2ª ed., 2015.\n2) COLLIN, Emerson C. Pesquisa Operacional. São Paulo: Editora Atlas, 2ª ed.,2017.\n3) FIANI, Ronaldo. Teoria dos Jogos. 3ª ed. Rio de Janeiro: Campus, 2009.\n4) SOLODÓNIKOV, A. S. Sistemas de Desigualdades Lineales. Moscou: Editora Mir, 1980.\n5) STRANG, Gilbert. Álbebra Linear e Suas Aplicações. São Paulo: Cengage, 2010.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/97329FD1-92A4-F713-0056-3E3996BF7679.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA226",
+                                    "nome": "Matemática Financeira",
+                                    "descricao": "Juros Simples e Compostos; Taxas: Nominal, Efetiva, Proporcional e Equivalente; Fluxos de Caixa e Inflação; Taxas de Desconto; Série Uniforme; Descontos Racional e Comercial; Sistemas de Amortização de Dívidas; Análise de Fluxos de Caixa.\n     \n___BIBLIOGRAFIA BÁSICA___\n1) BOGGISS, G. J. et al. Matemática Financeira. 11ª ed. Rio de Janeiro: Editora FGV, 2012.\n\n___BIBLIOGRAFIA COMPLEMENTAR___     \n1) AYRES, Jr. F. Matemática Financeira. Coleção Schaum. São Paulo: Mcgraw Hill, 1971.   \n2) FARO, Clóvis; LACHTERMACHER, Gerson. Introdução à Matemática Financeira. Rio de Janeiro: Editora FGV, 2012.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/C6338E0A-92A4-F79D-4E86-BF7FBD5F33B5.html'",
+                                    "creditos": 4,
+                                    "codigo": "IEE118",
+                                    "nome": "Macroeconomia (CC)",
+                                    "descricao": "Introdução à análise macroeconômica. Sistema econômico. Repartição de renda. Formulação de política econômica. Relações econômicas internacionais.\n\n___BIBLIOGRAFIA BÁSICA___\n1) WONNACOTT, Paul; WONNACOTT, Ronald. Economia. São Paulo: Makron Books, 1985.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) LOPES, Luiz Martins; VASCONCELLOS, Marco Antonio Sandoval (Org.). (USP). Manual de macroeconomia: básico e intermediário. São Paulo: Atlas, 1998. Introdução; Capítulos 1-12.\n2) VASCONCELLOS, Marco Antonio Sandoval; TROSTER, Roberto Luis. Economia básica: teoria e exercícios. São Paulo: Atlas, 1994. Capítulos 1, 11-19.\n3) CASTRO, Antonio Barros de; LESSA Carlos Francisco. Introdução à economia. Rio de Janeiro: Forense, 1988. Capítulos 1-8.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "IEE127"
+                                    ]
+                                }
+                            ]
+                        },
+                        "3": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/A58B6681-92A4-F79C-3ACF-54A43716763E.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA221",
+                                    "nome": "Ética e Aspect Filosóf na Adm",
+                                    "descricao": "Diversas possibilidades de compreensão do conceito de Ética; Ética, Moral e Deontologia; Ética e Práticas Comunicacionais (Retórica, Sofística, Dialética); Ética e autoconhecimento como método de gestão pessoal; A relação entre Economia, Ética e Política; Ética Patriarcal e Ética Cristã (família, propriedade privada, Estado); Ciência e Modernidade; A Ética Protestante e o espírito do capitalismo; Vícios Privados, Virtudes Públicas; Ética da Competitividade; Ética do Trabalho; Paradigmas éticos da gestão democrática e da gestão socialista; Sociedade Tecnocrática e Burocracia; Clientelismo, Autoritarismo e Patrimonialismo; Fundamentos éticos do neoliberalismo e a corrosão do caráter; Racismo nas Organizações; Misoginia nas Organizações; Homofobia nas Organizações; Empoderamento Feminino; Educação Popular; Direitos Humanos e Organizações; Consumo Ético, Sustentabilidade e Responsabilidade Ambiental; Ética e Ecologia; A privatização da vida, segurança pública e gestão social do medo; O problema da xenofobia e a crise mundial dos imigrantes; Ética da Globalização e Cibercultura; Ética nas Corporações e Responsabilidade Empresarial; O papel emancipatório da universidade pública na produção social do conhecimento.     \n\n___BIBLIOGRAFIA BÁSICA___\n1) MORGAN, Gareth. Imagens da Organização. Trad. de Cecília Whitaker Bergamini e Roberto Coda. São Paulo: Atlas, 2013.    \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ARISTÓTELES. Ética a Nicômaco. Tradução de Antonio de Castro Caeiro. São Paulo: Ed. Atlas, 2014.\n2) WEBER, Max. A ética protestante e o espírito do capitalismo. Tradução de José Carlos Mariani. São Paulo: Companhia das Letras, 2012.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B716EF6-92A4-F79C-3ACF-54A454B4B257.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA230",
+                                    "nome": "Liderança e Comportam no Trab",
+                                    "descricao": "Psicologia: conceitos, métodos. Psicologia individual: aprendizagem; memória; indivíduo; maturação; funções cognitivas; personalidade. Psicologia Social e Organizacional: motivação, papéis e atitudes; relações interpessoais e dinâmica de grupos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) ROBBINS, Stephen P.; JUDGE, Timothy A.; SOBRAL, Felipe.  Comportamento Organizacional - Teoria e prática no contexto brasileiro. 14ª edição. Ribeirão Preto: Pearson, 2011. \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BAUMAN, Zygmunt & DONSKIS, Leonidas. Cegueira moral - a perda da sensibilidade na modernidade líquida. Rio de Janeiro: Zahar, 2014.\n2) CRARY, Jonathan. Capitalismo tardio e os fins do sono. São Paulo: Cosac Naify, 2014.\n3) GOLEMAN, Daniel. FOCO - A atenção e seu papel fundamental para o sucesso. Rio de Janeiro: Objetiva, 2013.\n4) GOSWAMI, Amit. Criatividade para o século 21. São Paulo: Aleph, 2012.\n5) KELLERMAN, Barbara. Como os seguidores fazem os líderes. Rio de Janeiro: Campus, 2009.\n6) QUINN, Robert E. et al. Competências gerenciais - a abordagem de valores concorrentes na gestão. Rio de Janeiro: Elsevier, 2012.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/0E0A0BA0-92A4-F79C-1905-7E1CC3C3188F.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA302",
+                                    "nome": "Análise de Investimentos",
+                                    "descricao": "Conceito e tipos de Investimentos; Conceito de Custo de Oportunidade; Critérios de Avaliação: Payback, Taxa Interna de Retorno, Valor Presente Líquido e Índice de Lucratividade; Títulos de Renda Fixa e Renda Variável: Conceitos básicos e apreçamento; Tomada de Decisões de Investimento sob Incerteza; Racionamento de Capital; Risco e Retorno: Risco sistemático e não sistemático, diversificação; Custo de capital: Próprio, de terceiros e Custo médio ponderado de capital.       \n\n___BIBLIOGRAFIA BÁSICA___\n1) ROSS, Stephen. A. et al. Administração Financeira: Corporate Finance. 10 ed., Porto Alegre: AMGH, 2015.      \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ROSS, Stephen. A. et al. Fundamentos da Administração Financeira. 9ª ed., Porto Alegre: AMGH, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA226"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A56F-92A4-F713-0056-3E39D25FF5D3.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACC222",
+                                    "nome": "Contabilidade Gerencial",
+                                    "descricao": "Comportamento dos custos. Natureza e limites da informação contábil. Confiabilidade das informações contábeis. Decisões envolvendo informações incompletas. Processo de tomada de decisão: incerteza e risco. Orçamento empresarial: custo padrão; prática orçamentaria; condições inflacionarias; utilização de sistemas de informações; uso de aplicativos informáticos.\n\n___BIBLIOGRAFIA BÁSICA___\n1) ANTHONY, Robert N; GOVINDARAJAN, Vijay. Sistemas de Controle gerencial. Tradução: Adalberto Ferreira das Neves. São Paulo: Atlas, 2002. 1019p.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ATKINSON, Anthony A., et al. Contabilidade Gerencial. Tradução: André Olímpio Mosselman e Du Chenoy Castro. São Paulo: 2000. 812p.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACC211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B4DBBF7-92A4-F79C-3ACF-54A41448E2E5.html'",
+                                    "creditos": 4,
+                                    "codigo": "MAD211",
+                                    "nome": "Estatística para Administração",
+                                    "descricao": "Estatística descritiva. Elaboração de tabelas e gráficos. Cálculo combinatório. Noções de probabilidade. Variáveis aleatórias discretas e contínuas. Valor esperado. Amostragem e testes de hipóteses. Métodos dos mínimos quadrados e correlação. \n\n___BIBLIOGRAFIA BÁSICA___\n1) FREUND, J. E. & SIMON, G. A. Estatística Aplicada - Economia, Administração e Contabilidade, Porto Alegre: Ed. Bookman, 9 ed., 1999.\n2) STEVENSON, W. Estatística Aplicada à Administração. São Paulo: Ed. Harbra 1986. \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BUSSAB, W. O & MORETTIN, P. A. Estatística Básica - série de Métodos Quantitativos. Ed. Saraiva, 6 ed. São Paulo, 2010.\n2) SOARES, J. F.; FARIAS, A. A. & CESAR, C. C. Introdução à Estatística. Rio de Janeiro: Ed Guanabara Koogan, 1991.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAC119"
+                                    ]
+                                }
+                            ]
+                        },
+                        "4": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9B0A91D2-92A4-F79C-3ACF-54A410E03A72.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA222",
+                                    "nome": "Sist de Informações Gerenciais",
+                                    "descricao": "Análise do papel da informação no planejamento e execução das atividades e decisões organizacionais. Sistemas de informações: tipos, estrutura, segurança, diferenças de abordagens nas empresas, impactos nos modelos de negócio e nas tomadas de decisão gerenciais e integração entre as diversas unidades organizacionais e interorganizacionais. Análise, concepção e gestão de um sistema de informações. Tendências, atualidades e inovações em Sistemas de Informação Gerenciais.\n\n___BIBLIOGRAFIA BÁSICA___\n1) LAUDON, Kenneth C; LAUDON, Jane P. Sistemas de informação gerenciais. São Paulo: Pearson Prentice-Hall, 2015, 11ª edição.  \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) DAVENPORT, Thomas H. Ecologia da Informação: por que só a tecnologia não basta para o sucesso na era da informação. São Paulo: Futura, 2000, 2ª edição.\n2) OLIVEIRA, Djalma. P. R. Sistemas de Informações Gerenciais: estratégias, táticas operacionais. São Paulo: Atlas, 2018, 17ª edição.\n3) ROSINI, Alessandro M; PALMISANO, Ângelo. Administração de Sistemas de Informação e a Gestão do Conhecimento. São Paulo: Pioneira Thomson Learning, 2012, 2ª edição.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACC222"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A000-92A4-F713-0056-3E393B12E2E9.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA228",
+                                    "nome": "Modelos Regressão e Previsão",
+                                    "descricao": "Revisão de probabilidade e inferência estatística. Modelo de regressão simples ? hipóteses, estimação (método de mínimos quadrados) e inferência (testes de hipótese e estimação de intervalos). Modelo de regressão múltipla ? estimação e inferência. Modelo de regressão múltipla ? tópicos adicionais: teste F, avaliação da colinearidade, e variáveis binárias. Falhas nas hipóteses do modelo de regressão ? testes e procedimentos de estimação: heterocedasticidade: teste de Goldfeld e Quandt, autocorrelação: teste de Durbin e Watson, regressor correlacionado com o erro aleatório: equações simultâneas. \n\n___BIBLIOGRAFIA BÁSICA___\n1) HILL, R. C.; GRIFFITHS, W. E. e JUDGE G. G. Econometria. São Paulo: Saraiva, 2003.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GUJARATI, D. N. Econometria Básica. 4ª ed. Rio de Janeiro: Campus, 2006.\n2) WOOLDRIGE, J. M. Introdução à Econometria - uma abordagem moderna. São Paulo: Thomson, 2005.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "MAD211"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B14963D-92A4-F79C-3ACF-54A4763D41CC.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA323",
+                                    "nome": "Fundamentos de Marketing",
+                                    "descricao": "Conceituação de Marketing; Teorias em Marketing; Abordagens do Marketing ? serviços, Industrial, Relacionamento; Categorias de Orientações Empresariais; Criação de Valor; Análise dos Ambientes Externo e Interno e Grupos de Interesse; O Processo de Pesquisa de Marketing; Comportamento do Consumidor; Comportamento do Comprador Organizacional; Segmentação e Posicionamento; Composto de Marketing.\n\n___BIBLIOGRAFIA BÁSICA___\n1) KOTLER, P. KELLER, K. L.  Administração de Marketing. São Paulo: Pearson, 2018, 15ª Ed.\n\n___BIBLIOGRAFIA  COMPLEMENTAR___\n1) URDAN, A. T.; URDAN, F. T. Marketing Estratégico no Brasil: teoria e aplicações. São Paulo: Atlas, 2011.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/A6149CA8-92A4-F79C-3ACF-54A439F4117C.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA324",
+                                    "nome": "Polít e Estrat em Gest Pessoas",
+                                    "descricao": "Desafios e Perspectivas na Atuação em Gestão de Pessoas; Definições de Políticas e Estratégias; Sistema Integrado de Gestão de Pessoas; Planejamento de RH; Ética e Gestão de Pessoas; Modelos de Gestão de Pessoas.\n\n___BIBLIOGRAFIA BÁSICA___\n1) ULRICH, D.; BROCKBANK, W., ULRICH, M. Competências Globais de RH: Agregando valor competitivo de fora para dentro. São Paulo: Bookman, 2013.  \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) ARAÚJO, L. C. Gestão de Pessoas: Estratégias e Integração Organizacional. São Paulo: Atlas, 2009.\n2) BOHLANDER, SNELL & SHERMAN. Administração de Recursos Humanos, São Paulo: Pioneiras Thomson Learning, 2003.\n3) MILKOVICH, George T.; BOUDREAU, John, W. Administração de Recursos Humanos. São Paulo: Atlas, 2008.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA230"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B1E036A-92A4-F79C-3ACF-54A40F3EF316.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA325",
+                                    "nome": "Administração Internacional",
+                                    "descricao": "O Ambiente Internacional da Empresa. A Questão Cultural. Influência e implicações das diferenças culturais na gestão internacional. Modos de Entrada. Cooperação Internacional Teorias de Internacionalização. Estratégia e Organização de Empresas Multinacionais.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CAVUSGIL, S.T.; KNIGHT, G.; RIESSENBERGER, J. R. Negócios Internacionais: estratégia, gestão e novas realidades. São Paulo: Pearson Prentice Hall, 2010.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1)  TANURE, B.; DUARTE, R. G. (Orgs). Gestão Internacional. São Paulo: Saraiva, 2006.\n2) BARBOSA, L. (Coord). Cultura e diferença nas organizações. São Paulo: Atlas, 2009.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/A5A1E761-92A4-F79A-1543-938E50D0F21C.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA326",
+                                    "nome": "Administração Estratégica",
+                                    "descricao": "Definições de Estratégia. Escola do Design. Escola de Planejamento. Escola de Posicionamento. Escola Cognitiva. Escola de Aprendizado. Escola de Poder. Escola Cultural. Escola Ambiental. Escola de Configuração. \n\n___BIBLIOGRAFIA BÁSICA___\n1) MINTZBERG, H.; AHLSTRAND, B.; LAMPEL, J. Safári de Estratégia: um roteiro pela selva do planejamento estratégico. Porto Alegre: Bookman, 2010 (reimpressão em 2015).\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) OLIVEIRA, D. P. R. Planejamento Estratégico: conceitos, metodologia, práticas. São Paulo: Atlas, 2018.\n2) SERRA, F. R.; FERREIRA, M. P.; TORRES, M. C.; TORRES, A. P. Administração Estratégica: conceitos, roteiros práticos e casos. Rio de Janeiro: Elsevier, 2015.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA115"
+                                    ]
+                                }
+                            ]
+                        },
+                        "5": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/974ECDCC-92A4-F79B-6FBF-B4B97C11454F.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA223",
+                                    "nome": "Metodologia da Pesquisa",
+                                    "descricao": "Conhecimento do Senso Comum e Conhecimento Científico. Pesquisa Científica e Consultoria Organizacional. Ética na Pesquisa em Administração.  Formulação de Hipóteses e Problema de Pesquisa. Método da Pesquisa Bibliográfica. Métodos e Técnicas da Pesquisa Empírica. Estudos Exploratórios, Descritivos, Correlacionais e Explicativos. Estudo de casos e casos para estudos. Revisão de Literatura. Resumo e Resenha. Técnicas de Coleta e Análise de Dados. Apresentação de Resultados: Relatório de Pesquisa e Características de um Artigo Científico.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CRESWELL, J. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. 2 ed. Porto Alegre: Artmed, 2003.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B29F0E0-92A4-F79C-3ACF-54A476A68252.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA301",
+                                    "nome": "Fundamentos de Logística",
+                                    "descricao": "Origens, princípios, funções e evolução da logística; Importância da logística no contexto macroeconômico; Interfaces da logística com as demais áreas funcionais; Atividades e Decisões logísticas: Suprimentos, Estoques, Armazenagem, Transportes e Distribuição; Avaliação de desempenho logístico. Tópicos Especiais e Tendências na Logística.      \n\n___BIBLIOGRAFIA BÁSICA___\n1) BOWERSOX, D.; CLOSS, D. Logística empresarial: o processo de integração da cadeia de suprimento. São Paulo: Atlas, 2010.      \n\n___BIBLIOGRAFIA COMPLEMENTAR___    \n1) BALLOU, R. H. Logística Empresarial: transportes, administração de materiais, distribuição física. São Paulo: Atlas, 1993.    \n2) CHRISTOPHER, M. Logistics & Supply Chain Management. Prentice-Hall, 2011.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA228"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9732A0CB-92A4-F713-0056-3E39D10F03ED.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA332",
+                                    "nome": "Gerência Financeira",
+                                    "descricao": "Objetivos e funções da Administração Financeira; Análise das demonstrações financeiras; Decisões de Capital de Giro: Investimentos em Caixa, em Duplicatas a Receber e em Estoque; Orçamento de Caixa; Custo de Capital: próprio, de terceiros e custo médio ponderado de capital; Estrutura de Capital: as proposições de Modigliani e Miller;  Alavancagem Financeira e Operacional; Controle Orçamentário; Fusões e Aquisições.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CAVICHINI, Alexis. Análise Financeira. Rio de Janeiro: Caeli-Inovarte, 2018 (edição em e-book e vídeo por striming).\n2) ROSS, Stephen. A. et al. Administração Financeira: Corporate Finance. 10ª ed., Porto Alegre: AMGH, 2015. \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1)BRIGHAM, Eugene; HOUSTON, Joel F. Fundamentos da Moderna Administração Financeira. Rio de Janeiro: Editora Campus: 1999.\n2) CAVICHINI, Alexis. Análise Financeira. São Paulo: Editora Tamr, 1997.\n3) COPELAND, Tom; KOLLER, Tim; MURIN, Jack. Avaliação de Empresas - Valuation - Calculando e Gerenciando o Valor da Empresa. 3ª ed., São Paulo: Pearson-Makron Books, 2002.\n4) ROSS, Stephen. A. et al. Administração Financeira. 9ª ed., Porto Alegre: AMGH, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA302",
+                                        "ACC222"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B357402-92A4-F79C-3ACF-54A49B0C0468.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA333",
+                                    "nome": "Gestão de Marketing",
+                                    "descricao": "Gestão e Desenvolvimento de Produtos; Determinação e Administração de Preços; Canais e Estratégias de Distribuição; Comunicação Integrada de Marketing; Ferramentas de Comunicação de Marketing; A Diversidade na Comunicação de Marketing; Plano de Marketing; Aspectos Éticos da Gestão de Marketing.\n\n___BIBLIOGRAFIA BÁSICA___\n1) KOTLER, Philip; KELLER, Kevin. Administração de Marketing. São Paulo: Pearson, 2018.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) MCDONALD, M.; WILSON, H. Planos de Marketing: planejamento e gestão estratégica. São Paulo: Elsevier, 2013.\n2) ROCHA, A.; FERREIRA, J.; BRANTES, J. Administração de Marketing: conceitos, estratégias, aplicações. São Paulo: Atlas, 2012.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA323"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B3BF6FD-92A4-F79C-3ACF-54A415B68AFF.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA334",
+                                    "nome": "Práticas em Gestão de Pessoas",
+                                    "descricao": "Atração e Seleção de Pessoas. Sistemas de Remuneração. Sistemas de Carreira. Gestão do Desempenho. Treinamento, Desenvolvimento e Educação Corporativa.\n\n___BIBLIOGRAFIA BÁSICA___\n1) ACADEMIA PEARSON. Administração de Recursos Humanos. São Paulo: Pearson Education do Brasil, 2010.     \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) FERNANDES, B. R. Gestão Estratégica de Pessoas com foco em competências. Rio de Janeiro: Elsevier, 2013.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA324"
+                                    ]
+                                }
+                            ]
+                        },
+                        "6": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9246BEA7-92A4-F79B-2DBD-95630194D34B.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA224",
+                                    "nome": "Processo Decisório",
+                                    "descricao": "Principais vertentes teóricas do processo decisório em Administração. Modelos decisórios racionais: modelo clássico; processo decisório nas estruturas; poder decisório sob condições de poder. Abordagem comportamental: heurísticas de julgamento; vieses cognitivos; conscientização limitada; formulação e inversão de preferências; influências motivacionais e emocionais; ética e decisão: árvore de decisão; aplicação de ferramentas, metodologia multicritério; probelas e axiomas.         \n\n___BIBLIOGRAFIA BÁSICA___\n1) FONTANILLAS, C. N.; BARRETO, C.R.; CRUZ, E. P. O Processo Decisório nas Organizações. 2ª ed. Parana: Intersaberes, 2020.      \n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) BAZERMAN, M. H.; MOORE, D. Processo Decisório. 8ª ed. Rio de Janeiro: Elsevier, 2015.\n2) YU, A. Tomada de Decisão nas Organizações: uma visão multidisciplinar. São Paulo: Saraiva, 2011.",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B76E73E-92A4-F79C-3ACF-54A4E2DBE02D.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA360",
+                                    "nome": "Gestão Estratégica Operações",
+                                    "descricao": "Introdução ao estudo da Administração de Operações: origens, conceitos e evolução da área; Estratégias e Prioridades competitivas na produção; Projeto de Produtos; Localização das Instalações; Capacidade produtiva; Dinâmica do processo de Planejamento Agregado; Planejamento das necessidades de materiais; Planejamento dos recursos da empresa; Princípios e técnicas de sistemas de produção enxuta; Tópicos Especiais em Administração de Operações visando à sustentabilidade.     \n\n___BIBLIOGRAFIA BÁSICA___\n1) CORRÊA, H.; CORRÊA, C. Administração de produção e operações: uma abordagem estratégica. São Paulo: Atlas, 2011.  \n\n___BIBLIOGRAFIA COMPLEMENTAR___ \n1) SLACK, N. Administração da Produção. São Paulo: Atlas, 2018.\n2) CHASE, R. B.; JACOBS, F. R.; AQUILANO, N. J. Administração da Produção e operações para vantagens competitivas. 11ª ed. São Paulo: MacGraw-Hill, 2006.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B43C1E3-92A4-F79C-3ACF-54A464C027B3.html'",
+                                    "creditos": 2,
+                                    "codigo": "ACA450",
+                                    "nome": "Seminário de Pesquisa",
+                                    "descricao": "Projetos de pesquisa científica em Administração. A monografia no curso de graduação. Proposição de um modelo para o desenvolvimento de um relatório monográfico. O problema de pesquisa. O referencial teórico. A metodologia. Realização de um projeto de pesquisa monográfica.\n\n___BIBLIOGRAFIA BÁSICA___\n1) VERGARA, S. Projetos e Relatórios de Pesquisa em Administração. 15 ed. São Paulo: Atlas, 2014.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) GIL, A. Como Elaborar Projetos de Pesquisa. 4ª ed. São Paulo: Atlas, 2002.\n2) LINTS, A.; MARTINS, G. Guia para Elaboração de Monografias e Trabalhos de Conclusão de Curso. 2ª ed. São Paulo: Atlas, 2007.",
+                                    "horas": 30,
+                                    "pre_requisito": [
+                                        "ACA223"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/9B818B56-92A4-F79C-3ACF-54A40167DD7E.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACAU04",
+                                    "nome": "Estágio Supervisionado Adm",
+                                    "descricao": "Prática profissional em atividades inerentes ao campo da Administração, em organizações públicas ou privadas, visando a integração dos conteúdos teóricos com a prática.\n\n___BIBLIOGRAFIA BÁSICA___\n1) BRASIL. Ministério da Educação. Conselho Nacional de Educação. Câmara de Educação Superior. Resolução nº 5, de 14 de outubro de 2021. Institui as Diretrizes Curriculares Nacionais do Curso de Graduação em Administração.",
+                                    "horas": 180,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 4,
+                                    "codigo": "Atividades Academicas de Livre Escolha",
+                                    "nome": "Atividades Academicas de Livre Escolha",
+                                    "descricao": "",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 8,
+                                    "codigo": "Atividades Academicas Optativas",
+                                    "nome": "Atividades Academicas Optativas",
+                                    "descricao": "",
+                                    "horas": 120,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "7": {
+                            "materias": [
+                                {
+                                    "link": "siga2/disciplinas/9B8BF550-92A4-F79C-3ACF-54A480117EF4.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACA472",
+                                    "nome": "Abordagens Críticas em Adm",
+                                    "descricao": "Teoria Crítica. Globalização. Desenvolvimento socioeconômico. Educação Ambiental. Geopolítica contemporânea.  Governança Corporativa. Administração participativa.  Gestão social.\n\n___BIBLIOGRAFIA BÁSICA___\n1) BOLTANSKI, L. & CHIAPELLO, E.  O novo espírito do capitalismo. 1ª Edição. São Paulo: Martins Fontes, 2009.\n\n___BIBLIOGRAFIA COMPLEMENTAR___\n1) HALL, Stuart. Da diáspora: Identidades e mediações culturais. Belo Horizonte: Editora UFMG, 2013.\n2) MÉSZÁROS, István. O poder da ideologia. São Paulo: Boitempo, 2014.",
+                                    "horas": 60,
+                                    "pre_requisito": [
+                                        "ACA122"
+                                    ]
+                                },
+                                {
+                                    "link": "siga2/disciplinas/A64782E0-92A4-F79C-3ACF-54A416483EF2.html'",
+                                    "creditos": 4,
+                                    "codigo": "ACAK01",
+                                    "nome": "Trab Conclusão de Curso Adm",
+                                    "descricao": "Atividade complementar obrigatória orientada por um docente do Departamento de Administração da UFRJ, que poderá ou não ser derivada de uma pesquisa empírica, e que deverá ser avaliada pelo orientador e por um professor leitor da Instituição.\n\n___BIBLIOGRAFIA BÁSICA___\n1) CRESWELL, J. W. Projeto de pesquisa: métodos qualitativo, quantitativo e misto. 2 ed. Porto Alegre: Artmed, 2003.\n2) VERGARA, S. Projetos e Relatórios de Pesquisa em Administração. 15 ed. São Paulo: Atlas, 2014.",
+                                    "horas": 180,
+                                    "pre_requisito": [
+                                        "ACA450"
+                                    ]
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 4,
+                                    "codigo": "Atividades Academicas de Livre Escolha",
+                                    "nome": "Atividades Academicas de Livre Escolha",
+                                    "descricao": "",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 4,
+                                    "codigo": "Atividades Academicas Optativas",
+                                    "nome": "Atividades Academicas Optativas",
+                                    "descricao": "",
+                                    "horas": 60,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        },
+                        "8": {
+                            "materias": [
+                                {
+                                    "link": "",
+                                    "creditos": 8,
+                                    "codigo": "Atividades Academicas de Livre Escolha",
+                                    "nome": "Atividades Academicas de Livre Escolha",
+                                    "descricao": "",
+                                    "horas": 120,
+                                    "pre_requisito": []
+                                },
+                                {
+                                    "link": "",
+                                    "creditos": 8,
+                                    "codigo": "Atividades Academicas Optativas",
+                                    "nome": "Atividades Academicas Optativas",
+                                    "descricao": "",
+                                    "horas": 120,
+                                    "pre_requisito": []
+                                }
+                            ]
+                        }
+                    }
+                }
+            ],
+            "nome": "Administração",
+            "Código": "3407010000"
+        }
+    ]
+}
